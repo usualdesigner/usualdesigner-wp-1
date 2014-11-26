@@ -1,0 +1,33 @@
+								<div id="twitter-box" style="overflow: hidden;">
+																		<ul id="twitter-list">
+																				<li class="status-item first">
+											<span class="tweet-content">Quis autem vel eum iure reprehenderit qui in ea voluptate
+Quis autem vel eum iure reprehenderit qui in ea voluptate</span>
+											<div class="name-time"></div>
+											<div class="date-time">
+												<a href="http://twitter.com/wpdance/statuses/2.6103580169614E+17">October 24, 2012</a>
+											</div>
+											<div class="user">
+												<span> by </span>
+												<a href="http://twitter.com/wpdance" target="_blank">wpdance</a>
+											</div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																				<li class="status-item last">
+											<span class="tweet-content">@tvlgiao Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at ultrices tortor. 
+http://t.co/52bBYKCd</span>
+											<div class="name-time"></div>
+											<div class="date-time">
+												<a href="http://twitter.com/wpdance/statuses/2.3605013725068E+17">August 16, 2012</a>
+											</div>
+											<div class="user">
+												<span> by </span>
+												<a href="http://twitter.com/wpdance" target="_blank">wpdance</a>
+											</div>
+											<div class="avatar"><img src="http://pbs.twimg.com/profile_images/2453908828/lion_normal.jpg" title="wpdance" alt="wpdance"></div>
+										</li>
+																			</ul>
+								<a href="http://twitter.com/wpdance"><span class="twitter-follow"></span></a>
+													
+								</div><!-- #ticker-wrapper -->
+					
