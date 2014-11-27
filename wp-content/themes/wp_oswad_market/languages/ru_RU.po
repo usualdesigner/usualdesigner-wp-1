@@ -3,362 +3,340 @@ msgstr ""
 "Project-Id-Version: WD OSWAD MARKET v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-14 03:34:47+0000\n"
+"PO-Revision-Date: 2014-11-27 13:33+0300\n"
 "Last-Translator: admin <linhnguyen@codespot.vn>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: CSL v1.x\n"
-"X-Poedit-Language: English\n"
-"X-Poedit-Country: UNITED STATES\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Poedit-Basepath: ../\n"
-"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Textdomain-Support: yes"
 
+# @ wpdance
 #: 404.php:41
-#@ wpdance
 msgid "Hit the \"back\" button on your browser."
-msgstr ""
+msgstr "Нажмите кнопку \"Назад\" в Вашем браузере"
 
+# @ wpdance
 #: 404.php:42
-#@ wpdance
 msgid "Return to the Usability."
-msgstr ""
+msgstr "Вернуться к Юзабилити"
 
+# @ wpdance
 #: 404.php:43
-#@ wpdance
 msgid "Use the navigation menu at the top of the page"
-msgstr ""
+msgstr "Используйте навигационное меню вверху страницы"
 
+# @ wpdance
 #: theme/functions/filter_theme.php:330
 #, php-format
-#@ wpdance
 msgid "Category :%s"
-msgstr ""
+msgstr "Категория :%s"
 
+# @ wpdance
 #: theme/functions/filter_theme.php:335
 #, php-format
-#@ wpdance
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Поиск результатов: %s"
 
-#: archive.php:26
-#: theme/functions/filter_theme.php:340
+# @ wpdance
+#: archive.php:26 theme/functions/filter_theme.php:340
 #, php-format
-#@ wpdance
 msgid "Day : %s"
-msgstr ""
+msgstr "День : %s"
 
-#: archive.php:30
-#: theme/functions/filter_theme.php:344
+# @ wpdance
+#: archive.php:30 theme/functions/filter_theme.php:344
 #, php-format
-#@ wpdance
 msgid "Month : %s"
-msgstr ""
+msgstr "Месяц: %s"
 
-#: archive.php:30
-#: theme/functions/filter_theme.php:344
-#@ wpdance
+# @ wpdance
+#: archive.php:30 theme/functions/filter_theme.php:344
 msgctxt "monthly archives date format"
 msgid "F Y"
 msgstr ""
 
-#: archive.php:35
-#: theme/functions/filter_theme.php:349
+# @ wpdance
+#: archive.php:35 theme/functions/filter_theme.php:349
 #, php-format
-#@ wpdance
 msgid "Year : %s"
-msgstr ""
+msgstr "Год: %s"
 
-#: archive.php:35
-#: theme/functions/filter_theme.php:349
-#@ wpdance
+# @ wpdance
+#: archive.php:35 theme/functions/filter_theme.php:349
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:371
 #, php-format
-#@ wpdance
 msgid "Tag: %s"
-msgstr ""
+msgstr "Тэг: %s"
 
-#: archive.php:65
-#: theme/functions/filter_theme.php:379
+# @ wpdance
+#: archive.php:65 theme/functions/filter_theme.php:379
 #, php-format
-#@ wpdance
 msgid "Author : %s"
-msgstr ""
+msgstr "Автор: %s"
 
-#: archive.php:70
-#: theme/functions/filter_theme.php:384
-#@ wpdance
+# @ wpdance
+#: archive.php:70 theme/functions/filter_theme.php:384
 msgid "OOPS! FILE NOT FOUND"
-msgstr ""
+msgstr "ФАЙЛ НЕ НАЙДЕН"
 
-#: archive.php:74
-#: theme/functions/filter_theme.php:388
-#@ wpdance
+# @ wpdance
+#: archive.php:74 theme/functions/filter_theme.php:388
 msgid "Archive"
-msgstr ""
+msgstr "Архив"
 
+# @ wpdance
 #: archive.php:97
-#@ wpdance
 msgid "Prev Entries"
-msgstr ""
+msgstr "Пред записи"
 
+# @ wpdance
 #: archive.php:99
-#@ wpdance
 msgid "Next Entries"
-msgstr ""
+msgstr "След записи"
 
-#: archive-portfolio.php:158
-#: attachment.php:36
-#: content.php:61
-#: single-portfolio.php:175
-#: single.php:148
+# @ wpdance
+#: archive-portfolio.php:158 attachment.php:36 content.php:61
+#: single-portfolio.php:175 single.php:148
 #, php-format
-#@ wpdance
 msgid "<span class=\"%1$s\"></span> %2$s"
 msgstr ""
 
-#: attachment.php:40
-#: framework/functions/posted_in_on.php:18
+# @ wpdance
+#: attachment.php:40 framework/functions/posted_in_on.php:18
 #, php-format
-#@ wpdance
 msgid "View all posts by %s"
-msgstr ""
+msgstr "Просмотреть все сообщения от %s"
 
+# @ wpdance
 #: attachment.php:50
 #, php-format
-#@ wpdance
 msgid "Full size is %s pixels"
-msgstr ""
+msgstr "Полный размер %s пикс"
 
+# @ wpdance
 #: attachment.php:53
-#@ wpdance
 msgid "Link to full-size image"
-msgstr ""
+msgstr "Ссылка на полный размер"
 
-#: archive-portfolio.php:165
-#: attachment.php:60
-#: attachment.php:108
-#: bbpress/user-details.php:56
-#: bbpress.php:78
-#: content.php:27
+# @ wpdance
+#: archive-portfolio.php:165 attachment.php:60 attachment.php:108
+#: bbpress/user-details.php:56 bbpress.php:78 content.php:27
 #: framework/functions/breadcrumbs.php:302
 #: page-templates/contact-template.php:74
-#: page-templates/portfolio-template.php:46
-#: page.php:84
-#: single.php:46
+#: page-templates/portfolio-template.php:46 page.php:84 single.php:46
 #: woocommerce/myaccount/my-address.php:45
-#@ wpdance
 msgid "Edit"
-msgstr ""
+msgstr "Редактировать"
 
-#: attachment.php:104
-#: framework/functions/filter_theme.php:37
+# @ wpdance
+#: attachment.php:104 framework/functions/filter_theme.php:37
 #: theme/functions/filter_theme.php:92
-#@ wpdance
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
 
-#: attachment.php:105
-#: bbpress.php:75
-#: page-templates/contact-template.php:71
+# @ wpdance
+#: attachment.php:105 bbpress.php:75 page-templates/contact-template.php:71
 #: page.php:81
-#@ wpdance
 msgid "Pages:"
-msgstr ""
+msgstr "Страницы: "
 
+# @ wpdance
 #: comments.php:20
-#@ wpdance
-msgid "This post is password protected. Enter the password to view any comments."
+msgid ""
+"This post is password protected. Enter the password to view any comments."
 msgstr ""
+"Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
 
-#: comments.php:50
-#: comments.php:69
-#@ wpdance
+# @ wpdance
+#: comments.php:50 comments.php:69
 msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> предыдущие комментарии"
 
-#: comments.php:51
-#: comments.php:70
-#@ wpdance
+# @ wpdance
+#: comments.php:51 comments.php:70
 msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Новые комментарии <span class=\"meta-nav\">&rarr;</span>"
 
+# @ wpdance
 #: comments.php:82
-#@ wpdance
 msgid "Comments are closed."
-msgstr ""
+msgstr "Комментарии закрыты"
 
+# @ wpdance
 #: content-product-featured.php:36
-#@ wpdance
 msgid "We also recommend"
-msgstr ""
+msgstr "Мы также рекомендуем"
 
-#: archive-portfolio.php:171
-#: framework/functions/quicksand.php:55
+# @ wpdance
+#: archive-portfolio.php:171 framework/functions/quicksand.php:55
 #: framework/widgets/wd_recent_post.php:107
-#@ wpdance
 msgid "Read more"
-msgstr ""
+msgstr "Подробнее"
 
+# @ wpdance
 #. translators: used between list items, there is a space after the comma
 #. translators: used between list items, there is a space after the comma
 #. translators: used between list items, there is a space after the comma
-#: archive-portfolio.php:154
-#: content.php:57
-#: single.php:84
-#@ wpdance
+#: archive-portfolio.php:154 content.php:57 single.php:84
 msgid ", "
 msgstr ""
 
+# @ wpdance
 #: framework/abstract.php:120
-#@ wpdance
 msgid "Primary Navigation"
-msgstr ""
+msgstr "Главная навигация"
 
+# @ wpdance
 #: framework/admin/admin.php:69
-#@ wpdance
 msgid "Content - No Sidebar"
-msgstr ""
+msgstr "Контект - без сайдбара"
 
+# @ wpdance
 #: framework/admin/admin.php:70
-#@ wpdance
 msgid "Content - Left Sidebar"
-msgstr ""
+msgstr "Контект - левый сайдбар"
 
+# @ wpdance
 #: framework/admin/admin.php:71
-#@ wpdance
 msgid "Content - Right Sidebar"
-msgstr ""
+msgstr "Контект - правый сайдбар"
 
+# @ wpdance
 #: framework/admin/ajax/epanel.php:99
 #: framework/admin/template/custom_fields/custom_layout.php:27
 #: framework/admin/template/epanel/product-details.php:35
-#@ wpdance
 msgid "Related Products"
-msgstr ""
+msgstr "Связанные продукты"
 
+# @ wpdance
 #: framework/admin/ajax/epanel.php:111
 #: framework/admin/template/custom_fields/custom_layout.php:40
 #: framework/admin/template/epanel/product-details.php:48
-#@ wpdance
 msgid "YOU MAY ALSO BE INTERESTED IN THE FOLLOWING PRODUCT(S)"
-msgstr ""
+msgstr "ВАМ МОГУТ БЫТЬ ИНТЕРЕСНЫ СЛЕДУЮЩИЕ ПРОДУКТЫ"
 
+# @ wpdance
 #: framework/admin/template/custom_fields/custom_layout.php:70
 #: framework/admin/template/custom_fields/custom_layout.php:71
-#@ wpdance
 msgid "Custom Layout"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/custom_layout.php:71
-#@ wpdance
-msgid "Select custom layout for product page.Using general product page config by default"
+msgid ""
+"Select custom layout for product page.Using general product page config by "
+"default"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:223
-#@ wpdance
 msgid "Columns"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:64
-#@ wpdance
 msgid "Left Sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:78
 #: framework/functions/custom_term.php:109
 #: framework/functions/custom_term.php:262
-#@ wpdance
 msgid "Right Sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:93
-#@ wpdance
 msgid "Page Slider"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:150
-#@ wpdance
 msgid "Revolution Slider"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:232
-#@ wpdance
 msgid "Hide Breadcrumb"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:241
-#@ wpdance
 msgid "Hide Page Title"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/shortcode_generator.php:8
-#@ wpdance
 msgid "Choose One"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:71
-#@ wpdance
 msgid "Advertisement"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:82
-#@ wpdance
 msgid "Enable"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:83
-#@ wpdance
 msgid "Disable"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:97
-#@ wpdance
 msgid "Ads Type"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:114
 #: framework/admin/template/epanel/advertisement.php:115
-#@ wpdance
 msgid "Url & Banner Title"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:115
-#@ wpdance
 msgid "Config image url, banner url and banner title for header ads"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:119
 #: framework/widgets/emads.php:63
-#@ wpdance
 msgid "Image Url"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:123
-#@ wpdance
 msgid "Banner Url"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:127
-#@ wpdance
 msgid "Banner title"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:134
-#@ wpdance
 msgid "Your code"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:147
 #: framework/admin/template/epanel/custom-code-area.php:59
 #: framework/admin/template/epanel/custom-interface.php:1519
@@ -369,690 +347,696 @@ msgstr ""
 #: framework/admin/template/epanel/product-category.php:105
 #: framework/admin/template/epanel/product-details.php:283
 #: framework/admin/template/epanel/sidebar-manager.php:60
-#@ wpdance
 msgid "Save Changes"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:3
-#@ wpdance
 msgid "Custom Code Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:10
 #: framework/admin/template/epanel/custom-code-area.php:11
-#@ wpdance
 msgid "Add code to top of your post"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:11
-#@ wpdance
 msgid "Add your custom code (html and javascript)"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:22
-#@ wpdance
 msgid "Add code to bottom of your post"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:23
-#@ wpdance
 msgid "Add code to bottom of your post (Before comments)"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:23
-#@ wpdance
 msgid "Add your custom code (html and javascript) to bottom of your post"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:33
 #: framework/admin/template/epanel/custom-code-area.php:34
-#@ wpdance
 msgid "Add code before < / body >"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:44
 #: framework/admin/template/epanel/custom-code-area.php:45
-#@ wpdance
 msgid "Google Analytics"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:45
-#@ wpdance
 msgid "Add your google analytics code"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-code-area.php:58
 #: framework/admin/template/epanel/general.php:211
 #: woocommerce/loop/orderby.php:19
-#@ wpdance
 msgid "Default"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:347
-#@ wpdance
 msgid "Custom Interface"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:355
-#@ wpdance
 msgid "Preview Panel"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:356
-#@ wpdance
 msgid " Preview Panel "
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:379
-#@ wpdance
 msgid "Site Layout"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:403
-#@ wpdance
 msgid "Custom Font"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:404
-#@ wpdance
 msgid " Custom Font "
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:580
 #: framework/admin/template/epanel/custom-interface.php:581
-#@ wpdance
 msgid "Color Scheme"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:581
-#@ wpdance
 msgid "Select color scheme for theme"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:1518
 #: framework/admin/template/epanel/mega-menu.php:121
 #: framework/admin/template/epanel/product-category.php:104
 #: framework/admin/template/epanel/product-details.php:282
 #: framework/admin/template/epanel/sidebar-manager.php:59
-#@ wpdance
 msgid "Reset Default"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/customforpostsingle.php:37
-#@ wpdance
 msgid "Custom for post page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/customforpostsingle.php:44
 #: framework/admin/template/epanel/customforpostsingle.php:45
-#@ wpdance
 msgid "Config post detailed page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/customforpostsingle.php:124
-#@ wpdance
 msgid "Config mobile detailed page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/customforpostsingle.php:125
-#@ wpdance
 msgid "Config mobile post detailed page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:8
-#@ wpdance
 msgid "General"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:15
 #: framework/admin/template/epanel/general.php:16
-#@ wpdance
 msgid "Images"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:16
-#@ wpdance
 msgid "Upload logo, tagline and favor icon image for your site"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:40
-#@ wpdance
 msgid "Logo image"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:62
-#@ wpdance
 msgid "Favor icon image"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:115
 #: framework/admin/template/epanel/general.php:116
-#@ wpdance
 msgid "Sidebar Contact Content"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:190
 #: framework/admin/template/epanel/general.php:191
 #: framework/admin/template/epanel/general.php:195
-#@ wpdance
 msgid "Copyright text"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/listing-page.php:30
-#@ wpdance
 msgid "Custom archive page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/listing-page.php:38
 #: framework/admin/template/epanel/listing-page.php:39
-#@ wpdance
 msgid "Config archive page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/listing-page.php:96
 #: framework/admin/template/epanel/listing-page.php:97
-#@ wpdance
 msgid "Config mobile archive page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:34
-#@ wpdance
 msgid "Mega Menu Manager"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:43
 #: framework/admin/template/epanel/mega-menu.php:44
-#@ wpdance
 msgid "Menu Text & Image"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:48
-#@ wpdance
 msgid "Menu Text"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:62
 #: framework/admin/template/epanel/mega-menu.php:63
-#@ wpdance
 msgid "Menu thumbnail size"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:67
-#@ wpdance
 msgid "Thumbnail Width"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:71
-#@ wpdance
 msgid "Thumbnail Height"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:83
 #: framework/admin/template/epanel/mega-menu.php:84
-#@ wpdance
 msgid "Available Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:84
-#@ wpdance
 msgid "See and delete Available Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:88
-#@ wpdance
 msgid "Number Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:101
 #: framework/admin/template/epanel/mega-menu.php:102
-#@ wpdance
 msgid "Disabled on mobile"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:102
-#@ wpdance
 msgid "Disabled Mega Menu on mobile version"
 msgstr ""
 
+# @ wpdance
 #: page-templates/archive-template.php:48
 #: page-templates/sitemap-template.php:49
-#@ wpdance
 msgid "Categories"
 msgstr ""
 
-#: framework/widgets/productaz.php:35
-#: page-templates/sitemap-template.php:41
-#@ wpdance
+# @ wpdance
+#: framework/widgets/productaz.php:35 page-templates/sitemap-template.php:41
 msgid "Pages"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:234
 #: woocommerce/single-product-reviews.php:62
-#@ wpdance
 msgid "Name"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/panel_container.php:12
-#@ wpdance
 msgid "Config saved."
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/product-category.php:20
 #: framework/admin/template/epanel/product-details.php:61
-#@ wpdance
 msgid "Custom for product page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/product-details.php:71
 #: framework/admin/template/epanel/product-details.php:72
-#@ wpdance
 msgid "Config product detailed page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:11
-#@ wpdance
 msgid "Sidebar Manager"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:20
 #: framework/admin/template/epanel/sidebar-manager.php:21
-#@ wpdance
 msgid "Create New  Sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:21
-#@ wpdance
 msgid "Create a new sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:24
-#@ wpdance
 msgid "Add New Sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:33
 #: framework/admin/template/epanel/sidebar-manager.php:34
-#@ wpdance
 msgid "Available Sidebars"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:34
-#@ wpdance
 msgid "See and delete Available sidebar"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/sidebar-manager.php:41
-#@ wpdance
 msgid "Delete"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:3
-#@ wpdance
 msgid "Slideshow"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:10
 #: framework/admin/template/epanel/slideshow.php:11
-#@ wpdance
 msgid "Main Slideshow"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:11
-#@ wpdance
 msgid "Config delay time for main slideshow"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:27
 #: framework/admin/template/epanel/slideshow.php:28
-#@ wpdance
 msgid "Slideshow at single page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:28
-#@ wpdance
 msgid "Config delay time for slideshow at single page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:32
-#@ wpdance
 msgid "Delay Time"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/tooltip.php:2
-#@ wpdance
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:32
 #: woocommerce/global/breadcrumb.php:216
-#@ wpdance
 msgid "Page"
-msgstr ""
+msgstr "Страница"
 
+# @ wpdance
 #: framework/functions/comment.php:15
-#@ wpdance
 msgid "Name*"
-msgstr ""
+msgstr "Имя*"
 
+# @ wpdance
 #: framework/functions/comment.php:16
-#@ wpdance
 msgid "Email*"
 msgstr ""
 
-#: framework/functions/comment.php:17
-#: framework/functions/comment.php:31
-#@ wpdance
+# @ wpdance
+#: framework/functions/comment.php:17 framework/functions/comment.php:31
 msgid "Website"
-msgstr ""
+msgstr "Сайт"
 
+# @ wpdance
 #: framework/functions/comment.php:40
 #, php-format
-#@ wpdance
 msgid "Required fields are marked %s"
-msgstr ""
+msgstr "Поля, отмеченные %s обязательны к заполнению"
 
+# @ wpdance
 #: framework/functions/comment.php:44
 #, php-format
-#@ wpdance
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "Вы должны <a href=\"%s\">войти</a> чтобы оставлять комментарии."
 
+# @ wpdance
 #: framework/functions/comment.php:45
 #, php-format
-#@ wpdance
-msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
 msgstr ""
+"Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Выйти?</a>"
 
+# @ wpdance
 #: framework/functions/comment.php:51
 #: woocommerce/single-product-reviews.php:58
 #, php-format
-#@ wpdance
 msgid "Leave a Reply to %s"
-msgstr ""
+msgstr "Ответить %s"
 
+# @ wpdance
 #: framework/functions/comment.php:52
-#@ wpdance
 msgid "Cancel reply"
-msgstr ""
+msgstr "Отменить ответ"
 
+# @ wpdance
 #: framework/functions/custom_term.php:13
 #: framework/functions/custom_term.php:67
 #: framework/functions/custom_term.php:167
 #: framework/functions/custom_term.php:220
-#@ wpdance
 msgid "Product Columns"
-msgstr ""
+msgstr "Список продуктов"
 
+# @ wpdance
 #: framework/functions/custom_term.php:24
 #: framework/functions/custom_term.php:80
-#@ wpdance
 msgid "Category Layout"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_term.php:93
 #: framework/functions/custom_term.php:246
-#@ wpdance
 msgid "Left SideBar"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_term.php:36
 #: framework/functions/custom_term.php:125
 #: framework/functions/custom_term.php:190
 #: framework/functions/custom_term.php:278
-#@ wpdance
 msgid "Custom Informations"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/filter_theme.php:108
 #, php-format
-#@ wpdance
 msgid "%s <span class=\"says\">says:</span>"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/filter_theme.php:111
 #: theme/functions/filter_theme.php:182
-#@ wpdance
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Ваш комментарий ожидает модерации."
 
+# @ wpdance
 #. translators: 1: date, 2: time
 #: framework/functions/filter_theme.php:118
 #, php-format
-#@ wpdance
 msgid "%1$s at %2$s"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:294
 #: framework/functions/filter_theme.php:118
 #: framework/functions/filter_theme.php:135
-#: theme/functions/filter_theme.php:177
-#: theme/functions/filter_theme.php:199
-#@ wpdance
+#: theme/functions/filter_theme.php:177 theme/functions/filter_theme.php:199
 msgid "(Edit)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/filter_theme.php:135
 #: theme/functions/filter_theme.php:199
-#@ wpdance
 msgid "Pingback:"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/lightbox_control.php:33
-#@ wpdance
 msgid "LightBox"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_functions.php:337
-#: framework/functions/main.php:100
-#: framework/functions/main.php:101
+#: framework/functions/main.php:100 framework/functions/main.php:101
 #: framework/functions/woo-account.php:41
 #: framework/functions/woo-account.php:42
-#: framework/functions/woo-account.php:82
-#: woocommerce/checkout/thankyou.php:30
-#@ wpdance
+#: framework/functions/woo-account.php:82 woocommerce/checkout/thankyou.php:30
 msgid "My Account"
-msgstr ""
+msgstr "Личный кабинет"
 
+# @ wpdance
 #: framework/functions/main.php:848
-#@ wpdance
 msgid "Back to Top"
-msgstr ""
+msgstr "Наверх"
 
+# @ wpdance
 #: framework/functions/pagination.php:110
-#@ wpdance
 msgid "First"
-msgstr ""
+msgstr "Первый"
 
-#: framework/functions/pagination.php:111
-#: single.php:53
+# @ wpdance
+#: framework/functions/pagination.php:111 single.php:53
 #: woocommerce/single-product/related.php:56
 #: woocommerce/single-product/up-sells.php:55
-#@ wpdance
 msgid "Previous"
-msgstr ""
+msgstr "Предыдущий"
 
-#: framework/functions/pagination.php:129
-#: single.php:54
+# @ wpdance
+#: framework/functions/pagination.php:129 single.php:54
 #: woocommerce/single-product/related.php:57
 #: woocommerce/single-product/up-sells.php:56
-#@ wpdance
 msgid "Next"
-msgstr ""
+msgstr "Следующий"
 
+# @ wpdance
 #: framework/functions/pagination.php:130
-#@ wpdance
 msgid "Last"
-msgstr ""
+msgstr "Последний"
 
+# @ wpdance
 #: framework/functions/posted_in_on.php:9
 #, php-format
-#@ wpdance
-msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgid ""
+"<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/posted_in_on.php:35
 #, php-format
-#@ wpdance
-msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
 
+# @ wpdance
 #: framework/functions/posted_in_on.php:37
 #, php-format
-#@ wpdance
-msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
 msgstr ""
 
+# @ wpdance
 #: framework/functions/posted_in_on.php:39
 #, php-format
-#@ wpdance
-msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
 msgstr ""
 
+# @ wpdance
 #: framework/functions/preview_mod.php:20
-#@ wpdance
 msgid "You do not have sufficient permissions to do this action."
-msgstr ""
+msgstr "У Вас недостаточно прав"
 
+# @ wpdance
 #: framework/functions/preview_mod.php:24
-#@ wpdance
 msgid "Something goes wrong!Please login again"
-msgstr ""
+msgstr "Что-то пошло не так! Войдите снова."
 
+# @ wpdance
 #: framework/functions/quicksand.php:51
 #: framework/widgets/wd_recent_post.php:84
 #, php-format
-#@ wpdance
 msgid "Permalink to %s"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:79
-#@ wpdance
 msgid "Secondary Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:81
-#@ wpdance
 msgid "The secondary sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #. translators: %s: title of menu item which is invalid
 #: framework/functions/wdmenus-admin.php:107
 #, php-format
-#@ wpdance
 msgid "%s (Invalid)"
 msgstr ""
 
+# @ wpdance
 #. translators: %s: title of menu item in draft status
 #: framework/functions/wdmenus-admin.php:111
 #, php-format
-#@ wpdance
 msgid "%s (Pending)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:135
-#@ wpdance
 msgid "Move up"
-msgstr ""
+msgstr "Наверх"
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:148
-#@ wpdance
 msgid "Move down"
-msgstr ""
+msgstr "Вниз"
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:150
 #: framework/functions/wdmenus-admin.php:152
-#@ wpdance
 msgid "Edit Menu Item"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:161
-#@ wpdance
 msgid "URL"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:168
-#@ wpdance
 msgid "Navigation Label"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:174
-#@ wpdance
 msgid "Title Attribute"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:181
-#@ wpdance
 msgid "Open link in a new window/tab"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:186
-#@ wpdance
 msgid "CSS Classes (optional)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:192
-#@ wpdance
 msgid "Link Relationship (XFN)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:198
-#@ wpdance
 msgid "Description"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:200
-#@ wpdance
-msgid "The description will be displayed in the menu if the current theme supports it."
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:211
-#@ wpdance
 msgid "Mega Menu"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:245
-#@ wpdance
 msgid "Sub Columns"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:266
-#@ wpdance
 msgid "Text Color"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:278
-#@ wpdance
 msgid "Display a Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:290
-#@ wpdance
 msgid "Set Image"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:310
-#@ wpdance
 msgid "Align Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:327
 #, php-format
-#@ wpdance
 msgid "Original: %s"
 msgstr ""
 
-#: framework/functions/wdmenus-admin.php:340
-#: woocommerce/cart/cart.php:30
-#@ wpdance
+# @ wpdance
+#: framework/functions/wdmenus-admin.php:340 woocommerce/cart/cart.php:30
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
+# @ wpdance
 #: framework/functions/wdmenus-admin.php:341
 #: woocommerce/myaccount/my-orders.php:83
-#@ wpdance
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:340
 #: framework/functions/woo-account.php:36
 #: framework/functions/woo-account.php:69
@@ -1060,2761 +1044,2796 @@ msgstr ""
 #: woocommerce/global/form-login.php:31
 #: woocommerce/myaccount/form-login.php:30
 #: woocommerce/myaccount/form-login.php:49
-#@ wpdance
 msgid "Login"
-msgstr ""
+msgstr "Войти"
 
+# @ wpdance
 #: framework/functions/woo-account.php:75
-#@ wpdance
 msgid "Forgot Your Password?"
-msgstr ""
+msgstr "Забыли пароль?"
 
+# @ wpdance
 #: framework/functions/woo-account.php:78
-#@ wpdance
 msgid "New Customer ?"
-msgstr ""
+msgstr "Новый покупатель?"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:336
 #: framework/functions/woo-account.php:83
-#@ wpdance
 msgid "Logout"
-msgstr ""
+msgstr "Выйти"
 
-#: framework/functions/main.php:120
-#: framework/functions/woo-cart.php:22
-#@ wpdance
+# @ wpdance
+#: framework/functions/main.php:120 framework/functions/woo-cart.php:22
 msgid "View your shopping bag"
-msgstr ""
+msgstr "Просмотреть корзину"
 
+# @ wpdance
 #: framework/functions/woo-cart.php:51
-#@ wpdance
 msgid "shopping bag"
-msgstr ""
+msgstr "корзина"
 
+# @ wpdance
 #: framework/functions/woo-cart.php:59
-#@ wpdance
 msgid "You have no items in your shopping cart."
-msgstr ""
+msgstr "Выша корзина пуста"
 
-#: woocommerce/cart/cart-totals.php:21
-#: woocommerce/cart/mini-cart.php:64
+# @ wpdance
+#: woocommerce/cart/cart-totals.php:21 woocommerce/cart/mini-cart.php:64
 #: woocommerce/checkout/review-order.php:28
-#@ wpdance
 msgid "Subtotal"
-msgstr ""
+msgstr "Подитог"
 
-#: framework/functions/woo-cart.php:125
-#: woocommerce/cart/mini-cart.php:70
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-cart.php:125 woocommerce/cart/mini-cart.php:70
 msgid "Checkout"
-msgstr ""
+msgstr "Оформить"
 
-#: framework/functions/woo-cart.php:106
-#: woocommerce/cart/cart.php:125
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-cart.php:106 woocommerce/cart/cart.php:125
 msgid "Remove this item"
-msgstr ""
+msgstr "Удалить"
 
+# @ wpdance
 #: woocommerce/loop/sale-flash.php:16
-#@ wpdance
 msgid "Sale!"
-msgstr ""
+msgstr "Распродажа!"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:686
 #, php-format
-#@ wpdance
 msgid "Reviews (%d)"
-msgstr ""
+msgstr "Отзывы (%d)"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:768
-#@ wpdance
 msgid "Review(s)"
-msgstr ""
+msgstr "Отзыв(ы)"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:776
-#@ wpdance
 msgid "Be the first to review this product"
-msgstr ""
+msgstr "Ваш отзыв будет первым!"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:117
-#@ wpdance
 msgid "Availability"
-msgstr ""
+msgstr "Доступно"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:836
-#@ wpdance
 msgctxt "breadcrumb"
 msgid "Home"
-msgstr ""
+msgstr "Главная"
 
+# @ wpdance
 #: framework/functions/woo-product.php:18
 #: framework/functions/woo-product.php:23
 #: framework/functions/woo-product.php:43
 #: framework/functions/woo-product.php:63
-#@ wpdance
 msgid "In stock"
-msgstr ""
+msgstr "На складе"
 
+# @ wpdance
 #: framework/functions/woo-product.php:23
 #, php-format
-#@ wpdance
 msgid "Only %s left in stock"
-msgstr ""
+msgstr "Всего %s осталось в наличии"
 
+# @ wpdance
 #: framework/functions/woo-product.php:26
 #, php-format
-#@ wpdance
 msgid "%s in stock"
-msgstr ""
+msgstr "%s в наличии"
 
+# @ wpdance
 #: framework/functions/woo-product.php:34
-#@ wpdance
 msgid "(backorders allowed)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-product.php:40
-#: framework/functions/woo-product.php:53
-#: woocommerce/cart/cart.php:77
-#@ wpdance
+#: framework/functions/woo-product.php:53 woocommerce/cart/cart.php:77
 msgid "Available on backorder"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-product.php:46
 #: framework/functions/woo-product.php:56
 #: framework/functions/woo-product.php:60
-#@ wpdance
 msgid "Out of stock"
-msgstr ""
+msgstr "Нет в наличии"
 
+# @ wpdance
 #: page-templates/archive-template.php:42
 #: page-templates/sitemap-template.php:71
-#@ wpdance
 msgid "Comments"
-msgstr ""
+msgstr "Комментарии"
 
-#: framework/widgets/productaz.php:77
-#: framework/widgets/twitterupdate.php:178
-#: framework/widgets/wd_layered_nav.php:488
-#: theme/widgets/wd_tag_cloud.php:173
-#@ wpdance
+# @ wpdance
+#: framework/widgets/productaz.php:77 framework/widgets/twitterupdate.php:178
+#: framework/widgets/wd_layered_nav.php:488 theme/widgets/wd_tag_cloud.php:173
 msgid "Title:"
-msgstr ""
+msgstr "Заголовок: "
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:17
-#@ wpdance
 msgid "Recent"
 msgstr ""
 
-#: framework/widgets/twitterupdate.php:182
-#: theme/widgets/testimonial.php:207
-#@ wpdance
+# @ wpdance
+#: framework/widgets/twitterupdate.php:182 theme/widgets/testimonial.php:207
 msgid "Limit:"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:10
-#@ wpdance
 msgid "Advertisment  Widget"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:12
-#@ wpdance
 msgid "WD - Ads"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/flickr.php:11
-#@ wpdance
 msgid "WD - Flickr"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/flickr.php:86
-#@ wpdance
 msgid "See more"
-msgstr ""
+msgstr "Подробнее"
 
+# @ wpdance
 #: framework/widgets/flickr.php:143
-#@ wpdance
 msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/flickr.php:147
-#@ wpdance
 msgid "Number:"
-msgstr ""
+msgstr "Количество:"
 
+# @ wpdance
 #: framework/widgets/flickr.php:155
-#@ wpdance
 msgid "Type:"
-msgstr ""
+msgstr "Тип:"
 
+# @ wpdance
 #: framework/widgets/flickr.php:157
-#@ wpdance
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
+# @ wpdance
 #: framework/widgets/flickr.php:158
-#@ wpdance
 msgid "Group"
-msgstr ""
+msgstr "Группа"
 
+# @ wpdance
 #: framework/widgets/flickr.php:162
-#@ wpdance
 msgid "Sorting:"
-msgstr ""
+msgstr "Сортировка:"
 
+# @ wpdance
 #: framework/widgets/flickr.php:164
-#@ wpdance
 msgid "Latest"
-msgstr ""
+msgstr "Последние"
 
-#: framework/widgets/flickr.php:165
-#: theme/widgets/product_categories.php:237
+# @ wpdance
+#: framework/widgets/flickr.php:165 theme/widgets/product_categories.php:237
 #: theme/widgets/testimonial.php:190
-#@ wpdance
 msgid "Random"
-msgstr ""
+msgstr "Случайно"
 
+# @ wpdance
 #: framework/widgets/flickr.php:169
-#@ wpdance
 msgid "Size:"
-msgstr ""
+msgstr "Размер:"
 
+# @ wpdance
 #: framework/widgets/flickr.php:171
-#@ wpdance
 msgid "Square"
-msgstr ""
+msgstr "Площадь"
 
+# @ wpdance
 #: framework/widgets/flickr.php:172
-#@ wpdance
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
+# @ wpdance
 #: framework/widgets/flickr.php:173
-#@ wpdance
 msgid "Thumbnail"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/flickr.php:177
-#@ wpdance
 msgid "Numper of images per row"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/productaz.php:5
-#@ wpdance
 msgid "This widget show list a-z of your products"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/productaz.php:9
-#@ wpdance
 msgid "WD - Product A to Z"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/twitterupdate.php:10
-#@ wpdance
 msgid "Twitter Widget"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/twitterupdate.php:11
-#@ wpdance
 msgid "WD - Twitter"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/twitterupdate.php:22
-#@ wpdance
 msgid "Twitter Update"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/twitterupdate.php:180
-#@ wpdance
 msgid "Username twitter:"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:49
 #, php-format
-#@ wpdance
 msgid "Page %s"
 msgstr ""
 
+# @ wpdance
 #: page-templates/archive-template.php:38
-#@ wpdance
 msgid "The Latest 30 Posts"
 msgstr ""
 
+# @ wpdance
 #: page-templates/archive-template.php:55
-#@ wpdance
 msgid "Monthly Archives"
 msgstr ""
 
+# @ wpdance
 #: page-templates/sitemap-template.php:59
-#@ wpdance
 msgid "Posts per category"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/dropdown-menus.php:198
-#@ wpdance
 msgid "Use this widget to add one of your custom menus as a dropdown."
 msgstr ""
 
+# @ wpdance
 #: theme/functions/dropdown-menus.php:199
-#@ wpdance
 msgid "Dropdown Menu"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/dropdown-menus.php:236
 #, php-format
-#@ wpdance
 msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/shortcode_generator.php:21
-#: framework/functions/woo-hook.php:628
-#: framework/functions/woo-hook.php:635
-#: framework/functions/woo-hook.php:717
-#: framework/functions/woo-hook.php:793
+#: framework/functions/woo-hook.php:628 framework/functions/woo-hook.php:635
+#: framework/functions/woo-hook.php:717 framework/functions/woo-hook.php:793
 #: theme/functions/filter_theme.php:171
 #: woocommerce/cart/shipping-calculator.php:56
 #: woocommerce/single-product/share.php:21
 #, php-format
-#@ wpdance
 msgid "%s"
 msgstr ""
 
+# @ wpdance
 #. translators: 1: date, 2: time
 #: theme/functions/filter_theme.php:176
 #, php-format
-#@ wpdance
 msgid "%1$s"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_functions.php:175
 #: theme/functions/filter_theme.php:215
-#@ wpdance
 msgid "Search for:"
-msgstr ""
+msgstr "Искать:"
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:416
 #: framework/functions/custom_functions.php:176
 #: framework/functions/custom_functions.php:177
 #: theme/functions/filter_theme.php:219
-#@ wpdance
 msgid "Search"
-msgstr ""
+msgstr "Поиск"
 
+# @ wpdance
 #: theme/functions/filter_theme.php:244
-#@ wpdance
 msgid "Reply"
-msgstr ""
+msgstr "Ответ"
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:6
-#@ wpdance
 msgid "The most recent comments"
-msgstr ""
+msgstr "Самые последние комментарии"
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:7
-#@ wpdance
 msgid "WD - Recent Comments"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:18
-#@ wpdance
 msgid "Recent Comments"
-msgstr ""
+msgstr "Последние комментарии"
 
+# @ wpdance
 #: theme/widgets/ew_social.php:9
-#@ wpdance
 msgid "Display Social Profiles"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:11
-#@ wpdance
 msgid "WD - Social Profiles"
 msgstr ""
 
-#: framework/functions/woo-hook.php:77
-#: theme/widgets/ew_social.php:35
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:77 theme/widgets/ew_social.php:35
 msgid "Facebook"
 msgstr ""
 
-#: framework/functions/woo-hook.php:77
-#: theme/widgets/ew_social.php:35
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:77 theme/widgets/ew_social.php:35
 msgid "Become our fan"
 msgstr ""
 
-#: framework/functions/woo-hook.php:80
-#: theme/widgets/ew_social.php:38
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:80 theme/widgets/ew_social.php:38
 msgid "Twitter"
 msgstr ""
 
-#: framework/functions/woo-hook.php:80
-#: theme/widgets/ew_social.php:38
+# @ wpdance
+#: framework/functions/woo-hook.php:80 theme/widgets/ew_social.php:38
 #: theme/widgets/testimonial.php:86
-#@ wpdance
 msgid "Follow us"
 msgstr ""
 
-#: framework/functions/woo-hook.php:86
-#: theme/widgets/ew_social.php:44
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:86 theme/widgets/ew_social.php:44
 msgid "Google Plus"
 msgstr ""
 
-#: framework/functions/woo-hook.php:86
-#: theme/widgets/ew_social.php:44
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:86 theme/widgets/ew_social.php:44
 msgid "Join our circle"
 msgstr ""
 
-#: framework/functions/woo-hook.php:83
-#: framework/widgets/flickr.php:33
+# @ wpdance
+#: framework/functions/woo-hook.php:83 framework/widgets/flickr.php:33
 #: theme/widgets/ew_social.php:41
-#@ wpdance
 msgid "Flickr"
 msgstr ""
 
-#: framework/functions/woo-hook.php:83
-#: framework/functions/woo-hook.php:92
+# @ wpdance
+#: framework/functions/woo-hook.php:83 framework/functions/woo-hook.php:92
 #: theme/widgets/ew_social.php:41
-#@ wpdance
 msgid "See Us"
 msgstr ""
 
-#: framework/functions/woo-hook.php:89
-#: theme/widgets/ew_social.php:47
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:89 theme/widgets/ew_social.php:47
 msgid "RSS"
 msgstr ""
 
-#: framework/functions/woo-hook.php:89
-#: theme/widgets/ew_social.php:47
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:89 theme/widgets/ew_social.php:47
 msgid "Get updates"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_subscriptions.php:9
-#@ wpdance
 msgid "Display Subscriptions Form"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_subscriptions.php:11
-#@ wpdance
 msgid "WD - Feedburner Subscriptions"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-pay.php:19
 #: woocommerce/myaccount/review-order.php:21
 #: woocommerce/order/order-details.php:20
-#@ wpdance
 msgid "Product"
-msgstr ""
+msgstr "Продукт"
 
-#: woocommerce/cart/cart.php:27
-#: woocommerce/checkout/review-order.php:22
-#@ wpdance
+# @ wpdance
+#: woocommerce/cart/cart.php:27 woocommerce/checkout/review-order.php:22
 msgid "Price"
-msgstr ""
+msgstr "Цена"
 
+# @ wpdance
 #: woocommerce/cart/cart.php:28
 #: woocommerce/single-product/add-to-cart/simple.php:34
-#@ wpdance
 msgid "Quantity"
-msgstr ""
+msgstr "Количество"
 
-#: woocommerce/cart/cart.php:29
-#: woocommerce/checkout/review-order.php:23
+# @ wpdance
+#: woocommerce/cart/cart.php:29 woocommerce/checkout/review-order.php:23
 #: woocommerce/myaccount/my-orders.php:35
 #: woocommerce/myaccount/review-order.php:22
 #: woocommerce/order/order-details.php:21
-#@ wpdance
 msgid "Total"
-msgstr ""
+msgstr "Итого"
 
+# @ wpdance
 #: woocommerce/global/quantity-input.php:12
-#@ wpdance
 msgctxt "Product quantity input tooltip"
 msgid "Qty"
-msgstr ""
+msgstr "Кол-во"
 
+# @ wpdance
 #: woocommerce/cart/cart.php:139
-#@ wpdance
 msgid "Update Cart"
-msgstr ""
+msgstr "Обновить корзину"
 
-#: woocommerce/cart/cart.php:169
-#: woocommerce/checkout/form-coupon.php:29
-#@ wpdance
+# @ wpdance
+#: woocommerce/cart/cart.php:169 woocommerce/checkout/form-coupon.php:29
 msgid "Apply Coupon"
-msgstr ""
+msgstr "Купон на скидку"
 
+# @ wpdance
 #: woocommerce/checkout/cart-errors.php:16
-#@ wpdance
-msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/cart-errors.php:20
-#@ wpdance
 msgid "&larr; Return To Cart"
-msgstr ""
+msgstr "&larr; Вернуться в корзину"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:138
 #: woocommerce/myaccount/form-edit-address.php:14
 #: woocommerce/myaccount/my-address.php:19
 #: woocommerce/myaccount/my-address.php:25
 #: woocommerce/order/order-details.php:115
-#@ wpdance
 msgid "Billing Address"
-msgstr ""
+msgstr "Адрес"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:20
-#@ wpdance
 msgid "You must be logged in to checkout."
-msgstr ""
+msgstr "Вы должны быть зарегистрированы для оформления"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:95
-#@ wpdance
 msgid "Create an account"
-msgstr ""
+msgstr "Создать аккаунт"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:105
-#@ wpdance
 msgid "Create an account?"
-msgstr ""
+msgstr "Создать аккаунт?"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:153
 #: woocommerce/myaccount/form-edit-address.php:14
 #: woocommerce/myaccount/my-address.php:20
 #: woocommerce/order/order-details.php:130
-#@ wpdance
 msgid "Shipping Address"
-msgstr ""
+msgstr "Адрес доставки"
 
+# @ wpdance
 #: woocommerce/checkout/form-login.php:15
 #: woocommerce/checkout/form-login.php:19
-#@ wpdance
 msgid "Click here to login"
-msgstr ""
+msgstr "Нажмите здесь для входа"
 
+# @ wpdance
 #: woocommerce/checkout/form-pay.php:20
-#@ wpdance
 msgid "Qty"
-msgstr ""
+msgstr "Кол-во"
 
+# @ wpdance
 #: woocommerce/checkout/form-pay.php:21
-#@ wpdance
 msgid "Totals"
-msgstr ""
+msgstr "Итого"
 
+# @ wpdance
 #: woocommerce/checkout/form-pay.php:78
-#@ wpdance
-msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-pay.php:89
-#@ wpdance
 msgid "Pay for order"
-msgstr ""
+msgstr "Оплатить заказ"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:703
 #: woocommerce/checkout/form-shipping.php:55
 #: woocommerce/single-product/tabs/additional-information.php:14
-#@ wpdance
 msgid "Additional Information"
-msgstr ""
+msgstr "Дополнительная информация"
 
+# @ wpdance
 #: woocommerce/myaccount/review-order.php:27
-#@ wpdance
 msgid "Cart Subtotal"
-msgstr ""
+msgstr "Подитог"
 
+# @ wpdance
 #: woocommerce/myaccount/review-order.php:34
-#@ wpdance
 msgid "Cart Discount"
-msgstr ""
+msgstr "Скидка"
 
-#: woocommerce/cart/cart-shipping.php:19
-#: woocommerce/cart/cart-shipping.php:94
+# @ wpdance
+#: woocommerce/cart/cart-shipping.php:19 woocommerce/cart/cart-shipping.php:94
 #: woocommerce/myaccount/review-order.php:45
-#@ wpdance
 msgid "Shipping"
-msgstr ""
+msgstr "Доставка"
 
+# @ wpdance
 #: woocommerce/myaccount/review-order.php:82
-#@ wpdance
 msgid "Order Discount"
-msgstr ""
+msgstr "Скидка на заказ"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:88
 #: woocommerce/myaccount/review-order.php:91
-#@ wpdance
 msgid "Order Total"
-msgstr ""
+msgstr "Итого заказ"
 
+# @ wpdance
 #: woocommerce/myaccount/review-order.php:104
 #, php-format
-#@ wpdance
 msgid "(Includes %s)"
-msgstr ""
+msgstr "(включая %s)"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:186
 #: woocommerce/myaccount/review-order.php:174
-#@ wpdance
 msgid "Please fill in your details above to see available payment methods."
-msgstr ""
+msgstr "Заполните Ваши данные чтобы увидеть возможные способы оплаты."
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:188
 #: woocommerce/myaccount/review-order.php:176
-#@ wpdance
-msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
 msgstr ""
+"К сожалению, для Вас нет подходящего метода оплаты. Пожалуйста, свяжитесь с "
+"нами для подброра альтернативы."
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:199
 #: woocommerce/myaccount/review-order.php:185
-#@ wpdance
-msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
 msgstr ""
+"Поскольку Ваш браузер не поддерживает JavaScript, пожалуйста, убедитесь, что "
+"Вы нажали кнопку <em>Обновить Итог</em> перед тем как разместить Ваш заказ. "
+"Если этого не сделать, возможно списание бОльшей суммы!"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:199
 #: woocommerce/myaccount/review-order.php:185
-#@ wpdance
 msgid "Update totals"
-msgstr ""
+msgstr "Обновить итоги"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:206
 #: woocommerce/myaccount/review-order.php:192
-#@ wpdance
 msgid "Place order"
-msgstr ""
+msgstr "Разместить заказ"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:213
 #: woocommerce/myaccount/review-order.php:199
-#@ wpdance
 msgid "I have read and accept the"
-msgstr ""
+msgstr "Я прочитал и согласен"
 
+# @ wpdance
 #: woocommerce/checkout/review-order.php:213
 #: woocommerce/myaccount/review-order.php:199
-#@ wpdance
 msgid "terms &amp; conditions"
-msgstr ""
+msgstr "Правила и условия"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:18
-#@ wpdance
-msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
-msgstr ""
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr "К сожалению, банк отклонил Вашу транзакцию"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:22
-#@ wpdance
 msgid "Please attempt your purchase again or go to your account page."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:24
-#@ wpdance
 msgid "Please attempt your purchase again."
 msgstr ""
 
-#: woocommerce/checkout/thankyou.php:28
-#: woocommerce/myaccount/my-orders.php:77
-#@ wpdance
+# @ wpdance
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:77
 msgid "Pay"
-msgstr ""
+msgstr "Оплата"
 
-#: woocommerce/checkout/thankyou.php:36
-#: woocommerce/checkout/thankyou.php:67
-#@ wpdance
+# @ wpdance
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
 msgid "Thank you. Your order has been received."
-msgstr ""
+msgstr "Спасибо, Ваш заказ получен!"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:40
-#@ wpdance
 msgid "Order:"
-msgstr ""
+msgstr "Заказ:"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:44
-#@ wpdance
 msgid "Date:"
-msgstr ""
+msgstr "Дата:"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:48
-#@ wpdance
 msgid "Total:"
-msgstr ""
+msgstr "Итого:"
 
+# @ wpdance
 #: woocommerce/checkout/thankyou.php:53
-#@ wpdance
 msgid "Payment method:"
-msgstr ""
+msgstr "Способ оплаты:"
 
+# @ wpdance
 #: woocommerce/single-product/add-to-cart/simple.php:46
 #: woocommerce/single-product/add-to-cart/variable.php:89
-#@ wpdance
 msgid "Add to cart"
-msgstr ""
+msgstr "Добавить в корзину"
 
+# @ wpdance
 #: woocommerce/loop/no-products-found.php:14
-#@ wpdance
 msgid "No products found which match your selection."
-msgstr ""
+msgstr "Нет продуктов, отвечающих Вашим требованиям."
 
+# @ wpdance
 #: woocommerce/myaccount/form-change-password.php:22
 #: woocommerce/myaccount/form-lost-password.php:34
-#@ wpdance
 msgid "New password"
-msgstr ""
+msgstr "Новый пароль"
 
+# @ wpdance
 #: woocommerce/myaccount/form-change-password.php:26
 #: woocommerce/myaccount/form-lost-password.php:38
-#@ wpdance
 msgid "Re-enter new password"
-msgstr ""
+msgstr "Введите еще раз пароль"
 
+# @ wpdance
 #: woocommerce/myaccount/form-change-password.php:31
 #: woocommerce/myaccount/form-lost-password.php:48
-#@ wpdance
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-address.php:41
-#@ wpdance
 msgid "Save Address"
-msgstr ""
+msgstr "Сохранить Адрес"
 
+# @ wpdance
 #: woocommerce/global/form-login.php:20
-#@ wpdance
 msgid "Username or email"
-msgstr ""
+msgstr "Имя или EMail"
 
-#: framework/functions/woo-account.php:67
-#: woocommerce/global/form-login.php:24
+# @ wpdance
+#: framework/functions/woo-account.php:67 woocommerce/global/form-login.php:24
 #: woocommerce/myaccount/form-login.php:41
 #: woocommerce/myaccount/form-login.php:93
-#@ wpdance
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:341
 #: woocommerce/myaccount/form-login.php:72
 #: woocommerce/myaccount/form-login.php:111
-#@ wpdance
 msgid "Register"
-msgstr ""
+msgstr "Регистрация"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:64
-#@ wpdance
 msgid "Email"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/myaccount/form-lost-password.php:25
-#@ wpdance
-msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
 msgstr ""
+"Забыли пароль? Введите имя пользователя или Email. Вы получите ссылку для "
+"восстановления пароля на почту."
 
+# @ wpdance
 #: woocommerce/myaccount/form-lost-password.php:31
-#@ wpdance
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Введите новый пароль"
 
+# @ wpdance
 #: woocommerce/myaccount/form-lost-password.php:48
-#@ wpdance
 msgid "Reset Password"
-msgstr ""
+msgstr "Сбросить пароль"
 
+# @ wpdance
 #: woocommerce/myaccount/my-address.php:17
-#@ wpdance
 msgid "My Addresses"
-msgstr ""
+msgstr "Мои адреса"
 
+# @ wpdance
 #: woocommerce/myaccount/my-address.php:23
-#@ wpdance
 msgid "My Address"
-msgstr ""
+msgstr "Мой адрес"
 
+# @ wpdance
 #: woocommerce/myaccount/my-address.php:35
-#@ wpdance
 msgid "The following addresses will be used on the checkout page by default."
 msgstr ""
+"Следующие адреса будут использованы на странице оформления товаров по "
+"умолчанию"
 
+# @ wpdance
 #: woocommerce/myaccount/my-address.php:64
-#@ wpdance
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Вы еще не установили тип адреса."
 
+# @ wpdance
 #: woocommerce/myaccount/my-downloads.php:18
-#@ wpdance
 msgid "Available downloads"
-msgstr ""
+msgstr "Доступные загрузки"
 
+# @ wpdance
 #: woocommerce/myaccount/my-downloads.php:27
 #, php-format
-#@ wpdance
 msgid "%s download remaining"
 msgid_plural "%s downloads remaining"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: woocommerce/myaccount/my-orders.php:26
-#@ wpdance
 msgid "Recent Orders"
-msgstr ""
+msgstr "Недавние заказы"
 
+# @ wpdance
 #: theme/widgets/product_categories.php:242
 #: woocommerce/myaccount/my-orders.php:32
-#@ wpdance
 msgid "Order"
-msgstr ""
+msgstr "Заказ"
 
-#: theme/widgets/testimonial.php:189
-#: woocommerce/myaccount/my-orders.php:33
-#@ wpdance
+# @ wpdance
+#: theme/widgets/testimonial.php:189 woocommerce/myaccount/my-orders.php:33
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
+# @ tgmpa
+# @ wpdance
 #: theme/includes/class-tgm-plugin-activation.php:1376
 #: woocommerce/myaccount/my-orders.php:34
-#@ tgmpa
-#@ wpdance
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
+# @ wpdance
 #: woocommerce/myaccount/my-orders.php:68
 #, php-format
-#@ wpdance
 msgid "%s for %s item"
 msgid_plural "%s for %s items"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: woocommerce/myaccount/my-orders.php:88
-#@ wpdance
 msgid "View"
-msgstr ""
+msgstr "Просмотр"
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:17
-#@ wpdance
-msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:19
-#@ wpdance
 msgid "Order ID"
-msgstr ""
+msgstr "Номер заказа"
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:19
-#@ wpdance
 msgid "Found in your order confirmation email."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:20
-#@ wpdance
 msgid "Billing Email"
-msgstr ""
+msgstr " E-mail для оплаты"
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:20
-#@ wpdance
 msgid "Email you used during checkout."
-msgstr ""
+msgstr "E-mail, который Вы использовали в заказе."
 
+# @ wpdance
 #: woocommerce/order/form-tracking.php:23
-#@ wpdance
 msgid "Track"
-msgstr ""
+msgstr "Трек"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:16
-#@ wpdance
 msgid "Order Details"
-msgstr ""
+msgstr "Информация о заказе"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:64
 #, php-format
-#@ wpdance
 msgid "Download file%s"
-msgstr ""
+msgstr "Скачать файл%s"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:87
-#@ wpdance
 msgid "Order Again"
-msgstr ""
+msgstr "Заказать снова"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:94
-#@ wpdance
 msgid "Customer details"
-msgstr ""
+msgstr "Информация о заказчике"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:98
-#@ wpdance
 msgid "Email:"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/order/order-details.php:99
-#@ wpdance
 msgid "Telephone:"
-msgstr ""
+msgstr "Телефон:"
 
+# @ wpdance
 #: woocommerce/order/order-details.php:119
 #: woocommerce/order/order-details.php:134
-#@ wpdance
 msgid "N/A"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/order/tracking.php:17
 #, php-format
-#@ wpdance
 msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/order/tracking.php:17
-#@ wpdance
 msgid "ago"
-msgstr ""
+msgstr "назад"
 
+# @ wpdance
 #: woocommerce/order/tracking.php:19
-#@ wpdance
 msgid "and was completed"
-msgstr ""
+msgstr "и был завершен"
 
+# @ wpdance
 #: woocommerce/order/tracking.php:19
-#@ wpdance
 msgid " ago"
-msgstr ""
+msgstr " назад"
 
-#: woocommerce/myaccount/view-order.php:22
-#: woocommerce/order/tracking.php:30
-#@ wpdance
+# @ wpdance
+#: woocommerce/myaccount/view-order.php:22 woocommerce/order/tracking.php:30
 msgid "Order Updates"
-msgstr ""
+msgstr "Обновления Заказа"
 
+# @ wpdance
 #: woocommerce/single-product/add-to-cart/variable.php:26
-#@ wpdance
 msgid "Choose an option"
-msgstr ""
+msgstr "Выберите опцию"
 
+# @ wpdance
 #: woocommerce/single-product/add-to-cart/variable.php:79
-#@ wpdance
 msgid "Clear selection"
-msgstr ""
+msgstr "Очистить выбор"
 
+# @ wpdance
 #: woocommerce/single-product/meta.php:19
-#@ wpdance
 msgid "SKU:"
 msgstr ""
 
+# @ wpdance
 #. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
-#: woocommerce/single-product/meta.php:24
-#: theme/widgets/testimonial.php:239
-#@ wpdance
+#: woocommerce/single-product/meta.php:24 theme/widgets/testimonial.php:239
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Категория"
+msgstr[1] "Категории"
 
+# @ wpdance
 #: woocommerce/single-product/meta.php:29
-#@ wpdance
 msgid "Tag:"
 msgid_plural "Tags:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Тэг"
+msgstr[1] "Тэги"
 
+# @ wpdance
 #: woocommerce/single-product/product-attributes.php:31
-#@ wpdance
 msgid "Weight"
-msgstr ""
+msgstr "Вес"
 
+# @ wpdance
 #: woocommerce/single-product/product-attributes.php:38
-#@ wpdance
 msgid "Dimensions"
-msgstr ""
+msgstr "Размеры"
 
+# @ wpdance
 #: woocommerce/single-product/review.php:26
 #, php-format
-#@ wpdance
 msgid "Rated %d out of 5"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_functions.php:387
 #: woocommerce/single-product/review.php:27
-#@ wpdance
 msgid "out of 5"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/single-product/review.php:34
-#@ wpdance
 msgid "Your comment is awaiting approval"
-msgstr ""
+msgstr "Ваш комментарий ожидает подтверждения"
 
+# @ wpdance
 #: woocommerce/single-product/review.php:43
-#@ wpdance
 msgid "verified owner"
-msgstr ""
+msgstr "подтвержденный владелец"
 
+# @ wpdance
 #: woocommerce/single-product/short-description.php:18
-#@ wpdance
 msgid "Quick Overview"
-msgstr ""
+msgstr "Быстрый обзор"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:21
 #, php-format
-#@ wpdance
 msgid "%s review for %s"
 msgid_plural "%s reviews for %s"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:23
-#@ wpdance
 msgid "Reviews"
-msgstr ""
+msgstr "Отзывы"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:57
-#@ wpdance
 msgid "Add a review"
-msgstr ""
+msgstr "Добавить отзыв"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:57
-#@ wpdance
 msgid "Be the first to review"
-msgstr ""
+msgstr "Напишите отзыв первым!"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:74
-#@ wpdance
 msgid "Rate&hellip;"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:75
-#@ wpdance
 msgid "Perfect"
-msgstr ""
+msgstr "Прекрасный"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:76
-#@ wpdance
 msgid "Good"
-msgstr ""
+msgstr "Хороший"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:77
-#@ wpdance
 msgid "Average"
-msgstr ""
+msgstr "Средний"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:78
-#@ wpdance
 msgid "Not that bad"
-msgstr ""
+msgstr "Не плохой"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:79
-#@ wpdance
 msgid "Very Poor"
-msgstr ""
+msgstr "Очень плохой"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:83
-#@ wpdance
 msgid "Your Review"
-msgstr ""
+msgstr "Ваш Отзыв"
 
+# @ wpdance
 #: 404.php:37
-#@ wpdance
-msgid "You may have stumbled here by accident or the post you are looking for is no longer here."
+msgid ""
+"You may have stumbled here by accident or the post you are looking for is no "
+"longer here."
 msgstr ""
+"Возможно, вы попали сюда случайно, или страница, которую Вы ищете, больше не "
+"существует."
 
+# @ wpdance
 #: 404.php:38
-#@ wpdance
 msgid "Please try one of the following:"
-msgstr ""
+msgstr "Попробуйте один из следующих вариантов:"
 
-#: framework/functions/woo-hook.php:696
-#: framework/functions/woo-hook.php:734
-#: single-portfolio.php:173
-#: single.php:146
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:696 framework/functions/woo-hook.php:734
+#: single-portfolio.php:173 single.php:146
 msgid "Tags"
-msgstr ""
+msgstr "Тэги"
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:33
-#@ wpdance
 msgid "Layout Style"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:51
-#@ wpdance
 msgid "Page Layout"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:78
 #: framework/admin/template/epanel/advertisement.php:79
-#@ wpdance
 msgid "Enable Header Advertisement"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:94
 #: framework/admin/template/epanel/advertisement.php:95
-#@ wpdance
 msgid "Advertisement Type"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:95
-#@ wpdance
 msgid "Select Advertisement Type"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:20
-#@ wpdance
 msgid "Text Logo"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/product-category.php:27
 #: framework/admin/template/epanel/product-category.php:28
-#@ wpdance
 msgid "Config product category page"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/slideshow.php:15
-#@ wpdance
 msgid "Delay time"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:235
 #: theme/functions/dropdown-menus.php:241
 #: theme/widgets/popular_product_by_categories.php:277
 #: theme/widgets/recent_comments_custom.php:187
-#: theme/widgets/testimonial.php:188
-#: theme/widgets/testimonial.php:204
-#@ wpdance
+#: theme/widgets/testimonial.php:188 theme/widgets/testimonial.php:204
 msgid "Title"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:65
-#@ wpdance
 msgid "Ads Url"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:67
-#@ wpdance
 msgid "Image title"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:69
-#@ wpdance
 msgid "Image Width"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/emads.php:71
-#@ wpdance
 msgid "Image Height"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/dropdown-menus.php:245
-#@ wpdance
 msgid "Select Menu"
 msgstr ""
 
+# @ wpdance
+# @ tgmpa
 #: theme/functions/filter_theme.php:585
 #: theme/includes/class-tgm-plugin-activation.php:161
-#@ wpdance
-#@ tgmpa
 msgid "Install Required Plugins"
 msgstr ""
 
+# @ wpdance
+# @ tgmpa
 #: theme/functions/filter_theme.php:586
 #: theme/includes/class-tgm-plugin-activation.php:162
-#@ wpdance
-#@ tgmpa
 msgid "Install Plugins"
 msgstr ""
 
+# @ wpdance
+# @ tgmpa
 #: theme/functions/filter_theme.php:587
 #: theme/includes/class-tgm-plugin-activation.php:163
 #, php-format
-#@ wpdance
-#@ tgmpa
 msgid "Installing Plugin: %s"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:588
-#@ wpdance
 msgid "Something went wrong with the plugin API."
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:589
 #: theme/includes/class-tgm-plugin-activation.php:165
 #, php-format
-#@ wpdance
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:590
 #: theme/includes/class-tgm-plugin-activation.php:166
 #, php-format
-#@ wpdance
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:591
 #: theme/includes/class-tgm-plugin-activation.php:167
 #, php-format
-#@ wpdance
-msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
-msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:592
 #: theme/includes/class-tgm-plugin-activation.php:168
 #, php-format
-#@ wpdance
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:593
 #: theme/includes/class-tgm-plugin-activation.php:169
 #, php-format
-#@ wpdance
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:594
 #: theme/includes/class-tgm-plugin-activation.php:170
 #, php-format
-#@ wpdance
-msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
-msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:595
 #: theme/includes/class-tgm-plugin-activation.php:171
 #, php-format
-#@ wpdance
-msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
-msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:596
 #: theme/includes/class-tgm-plugin-activation.php:172
 #, php-format
-#@ wpdance
-msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
-msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:597
 #: theme/includes/class-tgm-plugin-activation.php:173
-#@ wpdance
 msgid "Begin installing plugin"
 msgid_plural "Begin installing plugins"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:598
-#@ wpdance
 msgid "Activate installed plugin"
 msgid_plural "Activate installed plugins"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ wpdance
+# @ tgmpa
 #: theme/functions/filter_theme.php:599
 #: theme/includes/class-tgm-plugin-activation.php:175
-#@ wpdance
-#@ tgmpa
 msgid "Return to Required Plugins Installer"
 msgstr ""
 
+# @ wpdance
+# @ tgmpa
 #: theme/functions/filter_theme.php:600
 #: theme/includes/class-tgm-plugin-activation.php:177
 #: theme/includes/class-tgm-plugin-activation.php:1938
-#@ wpdance
-#@ tgmpa
 msgid "Plugin activated successfully."
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:601
 #, php-format
-#@ wpdance
 msgid "All plugins installed and activated successfully. %s"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:164
-#@ tgmpa
 msgid "Something went wrong."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:179
 #, php-format
-#@ tgmpa
 msgid "All plugins installed and activated successfully. %1$s"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:530
 #: theme/includes/class-tgm-plugin-activation.php:2155
-#@ tgmpa
 msgid "Return to the Dashboard"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:180
-#@ tgmpa
 msgid "Dismiss this notice"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1165
-#@ tgmpa
 msgid "Private Repository"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1168
-#@ tgmpa
 msgid "Pre-Packaged"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1173
-#@ tgmpa
 msgid "WordPress Repository"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1176
-#@ tgmpa
 msgid "Required"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1176
-#@ tgmpa
 msgid "Recommended"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1179
-#@ tgmpa
 msgid "Not Installed"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1181
-#@ tgmpa
 msgid "Installed But Not Activated"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1357
 #, php-format
-#@ tgmpa
-msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1373
-#@ tgmpa
 msgid "Plugin"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1374
-#@ tgmpa
 msgid "Source"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1375
-#@ tgmpa
 msgid "Type"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1286
 #: theme/includes/class-tgm-plugin-activation.php:1394
-#@ tgmpa
 msgid "Install"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1308
 #: theme/includes/class-tgm-plugin-activation.php:1395
-#@ tgmpa
 msgid "Activate"
 msgstr ""
 
+# @ tgmpa
 #. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
 #: theme/includes/class-tgm-plugin-activation.php:1629
 #: theme/includes/class-tgm-plugin-activation.php:178
-#@ tgmpa
 msgid "The following plugin was activated successfully:"
 msgid_plural "The following plugins were activated successfully:"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1921
-#@ tgmpa
 msgid "Install package not available."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1922
 #, php-format
-#@ tgmpa
 msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1923
-#@ tgmpa
 msgid "Unpacking the package&#8230;"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1924
-#@ tgmpa
 msgid "Installing the plugin&#8230;"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1925
-#@ tgmpa
 msgid "Plugin install failed."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1926
-#@ tgmpa
 msgid "Plugin installed successfully."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:1937
-#@ tgmpa
 msgid "Plugin activation failed."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2051
-#@ tgmpa
-msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2052
 #, php-format
-#@ tgmpa
 msgid "%1$s installed and activated successfully."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2052
 #: theme/includes/class-tgm-plugin-activation.php:2061
-#@ tgmpa
 msgid "Show Details"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2052
 #: theme/includes/class-tgm-plugin-activation.php:2061
-#@ tgmpa
 msgid "Hide Details"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2053
-#@ tgmpa
 msgid "All installations and activations have been completed."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2054
 #, php-format
-#@ tgmpa
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2058
-#@ tgmpa
-msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2059
 #, php-format
-#@ tgmpa
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2060
 #, php-format
-#@ tgmpa
 msgid "The installation of %1$s failed."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2061
 #, php-format
-#@ tgmpa
 msgid "%1$s installed successfully."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2062
-#@ tgmpa
 msgid "All installations have been completed."
 msgstr ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2063
 #, php-format
-#@ tgmpa
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:190
-#@ wpdance
 msgid "Number of comments to show"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_forums.php:132
 #: theme/widgets/bbpress_recent_posts.php:149
-#: theme/widgets/best_selling_product.php:159
-#: theme/widgets/ew_social.php:94
-#: theme/widgets/ew_subscriptions.php:85
-#: theme/widgets/hot_product.php:173
+#: theme/widgets/best_selling_product.php:159 theme/widgets/ew_social.php:94
+#: theme/widgets/ew_subscriptions.php:85 theme/widgets/hot_product.php:173
 #: theme/widgets/product_categories.php:213
 #: theme/widgets/recent_product_slider.php:181
 #: theme/widgets/related_upsell_product.php:239
-#@ wpdance
 msgid "Enter your title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:96
-#@ wpdance
 msgid "Enter your description"
 msgstr ""
 
-#: theme/widgets/ew_social.php:99
-#: theme/widgets/ew_subscriptions.php:92
-#@ wpdance
+# @ wpdance
+#: theme/widgets/ew_social.php:99 theme/widgets/ew_subscriptions.php:92
 msgid "Enter your Feedburner ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:101
-#@ wpdance
 msgid "Enter your Twitter ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:103
-#@ wpdance
 msgid "Enter your Facebook ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:105
-#@ wpdance
 msgid "Enter your Google Plus ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:107
-#@ wpdance
 msgid "Enter your Flickr ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_subscriptions.php:88
-#@ wpdance
 msgid "Enter your Intro Text"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_subscriptions.php:90
-#@ wpdance
 msgid "Enter your Button"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:72
 #: woocommerce/checkout/form-checkout.php:129
 #: woocommerce/checkout/form-checkout.php:144
 #: woocommerce/checkout/form-checkout.php:159
-#@ wpdance
 msgid "Continue"
 msgstr ""
 
+# @ wpdance
 #: archive.php:21
 #, php-format
-#@ wpdance
 msgid "Search Results for : %s"
 msgstr ""
 
+# @ wpdance
 #: archive.php:57
 #, php-format
-#@ wpdance
 msgid "Tag : %s"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/ajax/epanel.php:350
 #: framework/functions/theme_sidebar.php:231
 #, php-format
-#@ wpdance
 msgid "%s Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/ajax/epanel.php:352
 #: framework/functions/theme_sidebar.php:233
 #, php-format
-#@ wpdance
 msgid "%s sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/advertisement.php:79
-#@ wpdance
 msgid "Enable or disable header advertisement"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:356
-#@ wpdance
 msgid "Enable/Disable The Frontend Preview Panel."
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:380
-#@ wpdance
-msgid "Change Site Layout Style.Box Style going to support custom Background and Color"
+msgid ""
+"Change Site Layout Style.Box Style going to support custom Background and "
+"Color"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:404
-#@ wpdance
 msgid "Change font.Include more than 500 fonts from google"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:81
 #: framework/admin/template/epanel/general.php:82
-#@ wpdance
 msgid "Custom Image Size"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:82
-#@ wpdance
-msgid "Change Your Custom Image Size.The Slider Item use this as params.After change image size,you have to regen thumbnail by going to \"Tool => Regen. Thumbnails\""
+msgid ""
+"Change Your Custom Image Size.The Slider Item use this as params.After "
+"change image size,you have to regen thumbnail by going to \"Tool => Regen. "
+"Thumbnails\""
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:116
-#@ wpdance
-msgid "Sidebar Contact Content,parse your contact form 7 shortcode here.If you dont have one.Install pluggin Contact Form 7.Find Contact Menu on the left and create your own form"
+msgid ""
+"Sidebar Contact Content,parse your contact form 7 shortcode here.If you dont "
+"have one.Install pluggin Contact Form 7.Find Contact Menu on the left and "
+"create your own form"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:191
-#@ wpdance
 msgid "Change Footer Copyright Text"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/mega-menu.php:44
-#@ wpdance
 msgid "Config Text Label For Mobile Menu"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-totals.php:84
-#@ wpdance
 msgid "Proceed to Checkout"
-msgstr ""
+msgstr "Перейти к Оформлению"
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:76
-#@ wpdance
 msgid "City"
-msgstr ""
+msgstr "Город"
 
+# @ wpdance
 #: archive-portfolio.php:27
-#@ wpdance
 msgid "Portfolio Archives"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:188
-#@ wpdance
 msgid "Columns(For Portfolio Template)"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:196
-#@ wpdance
 msgid "Filterable(For Portfolio Template)"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:205
-#@ wpdance
 msgid "Hide New Product"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/video.php:7
-#@ wpdance
 msgid "Enter your project url  "
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/video.php:10
-#@ wpdance
 msgid "Enter a video link (Vimeo,Youtube) "
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:128
 #: framework/admin/template/epanel/general.php:129
-#@ wpdance
 msgid "Social Links"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:129
-#@ wpdance
 msgid "Config social links as facebook, twitter, vimeo, flickr"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:133
-#@ wpdance
 msgid "Facebook link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:137
-#@ wpdance
 msgid "Twitter link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:141
-#@ wpdance
 msgid "Rss link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:145
-#@ wpdance
 msgid "Pinterest link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:149
-#@ wpdance
 msgid "Google link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:161
 #: framework/admin/template/epanel/general.php:162
-#@ wpdance
 msgid "Payment Links"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:162
-#@ wpdance
 msgid "Config Payment Link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:166
-#@ wpdance
 msgid "Visa link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:170
-#@ wpdance
 msgid "MasterCard link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:174
-#@ wpdance
 msgid "AmericanExpress link"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/general.php:178
-#@ wpdance
 msgid "Paypal link"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:134
-#@ wpdance
 msgid "The first footer widget area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:143
-#@ wpdance
 msgid "The second footer widget area 1"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/hot_product.php:6
-#@ wpdance
 msgid "Show Hot Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/hot_product.php:7
-#@ wpdance
 msgid "WD - Hot Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/hot_product.php:12
-#@ wpdance
 msgid "Hot Products"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:31
-#@ wpdance
-msgid "Shows a custom attribute in a widget which lets you narrow down the list of products when viewing product categories."
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:33
-#@ wpdance
 msgid "Wd Layered Nav"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:100
 #, php-format
-#@ wpdance
 msgid "Any %s"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:491
-#@ wpdance
 msgid "Attribute:"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:502
-#@ wpdance
 msgid "Display Type:"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:504
-#@ wpdance
 msgid "List"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:505
-#@ wpdance
 msgid "Dropdown"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:506
-#@ wpdance
 msgid "CheckBox"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:509
-#@ wpdance
 msgid "Query Type:"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:511
-#@ wpdance
 msgid "AND"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_layered_nav.php:512
-#@ wpdance
 msgid "OR"
 msgstr ""
 
+# @ wpdance
 #: single-portfolio.php:123
 #, php-format
-#@ wpdance
 msgid "%2$s"
 msgstr ""
 
+# @ wpdance
 #: admin/functions/functions.options.php:2744
-#: framework/functions/custom_style.php:265
-#: single-portfolio.php:187
-#@ wpdance
+#: framework/functions/custom_style.php:265 single-portfolio.php:187
 msgid "Related Posts"
 msgstr ""
 
-#: woocommerce/cart/cart.php:26
-#: woocommerce/checkout/review-order.php:21
-#@ wpdance
+# @ wpdance
+#: woocommerce/cart/cart.php:26 woocommerce/checkout/review-order.php:21
 msgid "Items"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart.php:167
-#@ wpdance
 msgid "Enter your coupon code if your have one"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/mini-cart.php:56
-#@ wpdance
 msgid "No products in the cart."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/mini-cart.php:69
-#@ wpdance
 msgid "View Cart"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-totals.php:92
 #, php-format
-#@ wpdance
 msgid " (taxes estimated for %s)"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-totals.php:95
 #, php-format
-#@ wpdance
-msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
 msgstr ""
 
-#: woocommerce/cart/cart-shipping.php:70
-#: woocommerce/cart/cart-shipping.php:78
-#@ wpdance
-msgid "If you require assistance or wish to make alternate arrangements please contact us."
-msgstr ""
+# @ wpdance
+#: woocommerce/cart/cart-shipping.php:70 woocommerce/cart/cart-shipping.php:78
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr "Если Вам нужна помощь, пожалуйста, свяжитесь с нами."
 
+# @ wpdance
 #: woocommerce/loop/orderby.php:20
-#@ wpdance
 msgid "Popularity"
-msgstr ""
+msgstr "Популярность"
 
+# @ wpdance
 #: woocommerce/loop/orderby.php:21
-#@ wpdance
 msgid "Average rating"
-msgstr ""
+msgstr "Средний рейтинг"
 
+# @ wpdance
 #: woocommerce/loop/orderby.php:22
-#@ wpdance
 msgid "Newness"
-msgstr ""
+msgstr "Новинка"
 
+# @ wpdance
 #: woocommerce/loop/orderby.php:23
-#@ wpdance
 msgid "Price: low to high"
-msgstr ""
+msgstr "Цена: от низкой к высокой"
 
+# @ wpdance
 #: woocommerce/loop/orderby.php:24
-#@ wpdance
 msgid "Price: high to low"
-msgstr ""
+msgstr "Цена: от высокой к низкой"
 
+# @ wpdance
 #: woocommerce/global/form-login.php:33
-#@ wpdance
 msgid "Forgot your Password?"
-msgstr ""
+msgstr "Забыли Ваш пароль?"
 
+# @ wpdance
 #: admin/classes/class.options_machine.php:582
-#@ wpdance
 msgid "Last Backup : "
 msgstr ""
 
-#: admin/front-end/options.php:46
-#: admin/front-end/options.php:71
-#@ wpdance
+# @ wpdance
+#: admin/front-end/options.php:46 admin/front-end/options.php:71
 msgid "Save All Changes"
 msgstr ""
 
+# @ wpdance
 #: admin/front-end/options.php:72
-#@ wpdance
 msgid "Options Reset"
 msgstr ""
 
+# @ wpdance
 #: admin/functions/functions.options.php:2392
 #: framework/functions/custom_style.php:232
-#@ wpdance
 msgid "RELATED ITEMS"
-msgstr ""
+msgstr "СВЯЗАННЫЕ ПРОДУКТЫ"
 
+# @ wpdance
 #: admin/functions/functions.options.php:2417
 #: framework/functions/custom_style.php:234
-#@ wpdance
 msgid "YOU MAY ALSO LIKE"
-msgstr ""
+msgstr "ВАМ МОЖЕТ ПОНРАВИТЬСЯ"
 
+# @ wpdance
 #: admin/functions/functions.options.php:2433
 #: framework/functions/custom_style.php:236
-#@ wpdance
 msgid "Share thist"
 msgstr ""
 
+# @ wpdance
 #: admin/functions/functions.options.php:2526
 #: framework/functions/custom_style.php:245
-#@ wpdance
 msgid "Custom Tab"
 msgstr ""
 
+# @ wpdance
 #: admin/functions/functions.options.php:2761
 #: framework/functions/custom_style.php:267
-#@ wpdance
 msgid "Comment"
 msgstr ""
 
+# @ wpdance
 #: archive-portfolio.php:185
-#@ wpdance
 msgid "Project"
 msgstr ""
 
+# @ wpdance
 #: archive.php:16
 #, php-format
-#@ wpdance
 msgid "welcome to  %s"
-msgstr ""
+msgstr "добро пожаловать в %s"
 
+# @ wpdance
 #: content.php:47
-#@ wpdance
 msgid " comment(s)"
-msgstr ""
+msgstr "Комментарий"
 
+# @ wpdance
 #: content.php:60
-#@ wpdance
 msgid "Categories:"
-msgstr ""
+msgstr "Категории:"
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:131
-#@ wpdance
 msgid "Product Slider Columns"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:142
-#@ wpdance
 msgid "Product Slider Title"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:167
-#@ wpdance
 msgid "Layer Slider"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:380
-#@ wpdance
 msgid " Site Layout "
 msgstr ""
 
+# @ wpdance
 #: framework/functions/main.php:95
-#@ wpdance
 msgid "Log in/Sign up"
-msgstr ""
+msgstr "Вход"
 
+# @ wpdance
 #: framework/functions/main.php:96
-#@ wpdance
 msgid "Log in / Sign up"
-msgstr ""
+msgstr "Вход"
 
+# @ wpdance
 #: framework/functions/woo-account.php:37
-#@ wpdance
 msgid "Log in"
-msgstr ""
+msgstr "Вход"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:33
 #: woocommerce/myaccount/form-login.php:88
-#@ wpdance
 msgid "Email address"
-msgstr ""
+msgstr "Email"
 
+# @ wpdance
 #: framework/functions/woo-account.php:74
-#@ wpdance
 msgid "* Required"
-msgstr ""
+msgstr "* Обязательны"
 
+# @ wpdance
 #: framework/functions/woo-account.php:49
 #: framework/functions/woo-account.php:78
-#@ wpdance
 msgid "Sign up"
-msgstr ""
+msgstr "Вход"
 
+# @ wpdance
 #: framework/functions/woo-account.php:47
-#@ wpdance
 msgid "/"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-account.php:48
-#@ wpdance
 msgid "Create An Account"
-msgstr ""
+msgstr "Создать аккаунт"
 
+# @ wpdance
 #: framework/functions/woo-account.php:132
-#@ wpdance
 msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
-msgstr ""
+msgstr "<strong>ОШИБКА</strong>: Неверное имя пользователя или пароль."
 
+# @ wpdance
 #: framework/functions/woo-hook.php:123
-#@ wpdance
 msgid "Sku:"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:773
-#@ wpdance
 msgid "Write review for this product"
-msgstr ""
+msgstr "Написать отзыв об этом товаре"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:849
-#@ wpdance
 msgid "Add to Cart"
-msgstr ""
+msgstr "Добавить в корзину"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:883
-#@ wpdance
 msgid "Account username"
-msgstr ""
+msgstr "Имя пользователя"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:884
-#@ wpdance
 msgctxt "placeholder"
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:888
-#@ wpdance
 msgid "Account password"
-msgstr ""
+msgstr "Пароль"
 
-#: framework/functions/woo-hook.php:889
-#: framework/functions/woo-hook.php:894
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:889 framework/functions/woo-hook.php:894
 msgctxt "placeholder"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:6
-#@ wpdance
 msgid "Show Best Selling Products"
-msgstr ""
+msgstr "Показать список бестселлеров"
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:7
-#@ wpdance
 msgid "WD - Best Selling Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:17
-#@ wpdance
 msgid "Best Selling Products"
-msgstr ""
+msgstr "Бестселлеры"
 
+# @ wpdance
 #: framework/widgets/emads.php:74
-#@ wpdance
-msgid "If you dont special the image width and height,system will use image size"
+msgid ""
+"If you dont special the image width and height,system will use image size"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/sale_product.php:6
-#@ wpdance
 msgid "Show On Sale Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/sale_product.php:7
-#@ wpdance
 msgid "WD - Sale Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/sale_product.php:12
-#@ wpdance
 msgid "On Sale Products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/sale_product.php:90
-#@ wpdance
 msgid "Title for sale tab:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/sale_product.php:93
-#@ wpdance
 msgid "The number of sale post"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:33
-#@ wpdance
 msgid "Portfolio"
 msgstr ""
 
-#: single-portfolio.php:104
-#: single.php:75
-#@ wpdance
+# @ wpdance
+#: single-portfolio.php:104 single.php:75
 msgid "comment(s)"
 msgstr ""
 
+# @ wpdance
 #: single.php:88
 #, php-format
-#@ wpdance
 msgid "<span class=\"%1$s heading-title\"> Categories:"
 msgstr ""
 
+# @ wpdance
 #: templates/related_posts.php:55
-#@ wpdance
 msgid "Sorry,no post found!"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-empty.php:16
-#@ wpdance
 msgid "Your cart is currently empty."
-msgstr ""
+msgstr "Ваша корзина пуста"
 
+# @ wpdance
 #: woocommerce/cart/cart-empty.php:20
-#@ wpdance
 msgid "Return To Shop"
-msgstr ""
+msgstr "Вернуться к покупкам"
 
+# @ wpdance
 #: woocommerce/cart/cart-shipping.php:17
 #, php-format
-#@ wpdance
 msgid "Shipping #%d"
-msgstr ""
+msgstr "Доставка #%d"
 
+# @ wpdance
 #: woocommerce/cart/cart-shipping.php:56
-#@ wpdance
-msgid "No shipping methods were found; please recalculate your shipping or continue to checkout and enter your full address to see if there is shipping available to your location."
+msgid ""
+"No shipping methods were found; please recalculate your shipping or continue "
+"to checkout and enter your full address to see if there is shipping "
+"available to your location."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-shipping.php:60
-#@ wpdance
 msgid "Please fill in your details to see available shipping methods."
-msgstr ""
+msgstr "Заполните информацию о Вас, чтобы увидеть возможные способы доставки."
 
-#: woocommerce/cart/cart-shipping.php:70
-#: woocommerce/cart/cart-shipping.php:78
+# @ wpdance
+#: woocommerce/cart/cart-shipping.php:70 woocommerce/cart/cart-shipping.php:78
 #, php-format
-#@ wpdance
 msgid "Sorry, shipping is unavailable %s."
-msgstr ""
+msgstr "Извините, доставка не возможна %s."
 
-#: woocommerce/cart/cart-totals.php:27
-#: woocommerce/cart/cart-totals.php:67
-#@ wpdance
+# @ wpdance
+#: woocommerce/cart/cart-totals.php:27 woocommerce/cart/cart-totals.php:67
 msgid "Coupon:"
-msgstr ""
+msgstr "Купон:"
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:88
-#@ wpdance
 msgid "Apply Shipping"
-msgstr ""
+msgstr "Применить Доставку"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:47
-#@ wpdance
 msgid "Checkout Method"
-msgstr ""
+msgstr "Метод оплаты"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:53
-#@ wpdance
 msgid "New customer"
-msgstr ""
+msgstr "Новый пользователь"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:57
-#@ wpdance
 msgid "Checkout as a Guest"
-msgstr ""
+msgstr "Оформить без регистрации"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:61
-#@ wpdance
 msgid "Create new account"
-msgstr ""
+msgstr "Создать новый аккаунт"
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:168
-#@ wpdance
 msgid "Your order"
-msgstr ""
+msgstr "Ваш Заказ"
 
+# @ wpdance
 #: woocommerce/checkout/form-login.php:14
-#@ wpdance
 msgid "Returning customer?"
-msgstr ""
+msgstr "Вернувшийся покупатель?"
 
+# @ wpdance
 #: woocommerce/checkout/form-shipping.php:30
-#@ wpdance
 msgid "Ship to a different address?"
-msgstr ""
+msgstr "Доставка на другой адрес?"
 
+# @ wpdance
 #: woocommerce/global/breadcrumb.php:72
-#@ wpdance
 msgid "Products tagged &ldquo;"
 msgstr ""
 
-#: woocommerce/global/breadcrumb.php:100
-#: woocommerce/global/breadcrumb.php:202
-#@ wpdance
+# @ wpdance
+#: woocommerce/global/breadcrumb.php:100 woocommerce/global/breadcrumb.php:202
 msgid "Search results for &ldquo;"
-msgstr ""
+msgstr "Результаты поиска для &ldquo;"
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:29
 #: woocommerce/global/breadcrumb.php:156
-#@ wpdance
 msgid "Error 404"
-msgstr ""
+msgstr "Ошибка 404"
 
+# @ wpdance
 #: woocommerce/global/breadcrumb.php:206
-#@ wpdance
 msgid "Posts tagged &ldquo;"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/global/breadcrumb.php:211
-#@ wpdance
 msgid "Author:"
-msgstr ""
+msgstr "Автор:"
 
+# @ wpdance
 #: woocommerce/loop/result-count.php:28
-#@ wpdance
 msgid "Showing the single result"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/loop/result-count.php:30
 #, php-format
-#@ wpdance
 msgid "Show all %d Result"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/loop/result-count.php:32
 #, php-format
-#@ wpdance
 msgctxt "%1$d = first, %2$d = last, %3$d = total"
 msgid "Showing %1$d&ndash;%2$d of %3$d Result"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/myaccount/form-add-payment-method.php:40
-#@ wpdance
-msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/myaccount/form-add-payment-method.php:48
-#@ wpdance
 msgid "Add Payment Method"
-msgstr ""
+msgstr "Добавить способ оплаты"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:25
-#@ wpdance
 msgid "First name"
-msgstr ""
+msgstr "Имя"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:29
-#@ wpdance
 msgid "Last name"
-msgstr ""
+msgstr "Фамилия"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:50
-#@ wpdance
 msgid "Save changes"
-msgstr ""
+msgstr "Сохранить изменения"
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:37
-#@ wpdance
 msgid "Username or email address"
-msgstr ""
+msgstr "Имя пользователя или Email"
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:52
-#@ wpdance
 msgid "Remember me"
-msgstr ""
+msgstr "Запомнить меня"
 
+# @ wpdance
 #: framework/functions/woo-account.php:66
 #: woocommerce/myaccount/form-login.php:81
-#@ wpdance
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:104
-#@ wpdance
 msgid "Anti-spam"
-msgstr ""
+msgstr "Анти-спам"
 
+# @ wpdance
 #: woocommerce/myaccount/form-lost-password.php:27
-#@ wpdance
 msgid "Your User Name or Email Address"
-msgstr ""
+msgstr "Ваше имя пользователя или Email"
 
+# @ wpdance
 #: woocommerce/myaccount/view-order.php:17
 #, php-format
-#@ wpdance
-msgid "Order <mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
 msgstr ""
+"Заказ <mark class=\"order-number\">%s</mark> был принят <mark class=\"order-"
+"date\">%s</mark>. Текущий статус: <mark class=\"order-status\">%s</mark>."
 
+# @ wpdance
 #: woocommerce/myaccount/view-order.php:28
-#@ wpdance
 msgid "l jS \\o\\f F Y, h:ia"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/single-product/add-to-cart/variable.php:102
-#@ wpdance
 msgid "This product is currently out of stock and unavailable."
-msgstr ""
+msgstr "Данного товара нет в наличии"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:44
-#@ wpdance
 msgid "There are no reviews yet."
-msgstr ""
+msgstr "Пока отзывов нет"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:67
-#@ wpdance
 msgid "Submit"
-msgstr ""
+msgstr "Отправить"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:73
-#@ wpdance
 msgid "Your Rating"
-msgstr ""
+msgstr "Ваш Рейтинг"
 
+# @ wpdance
 #: woocommerce/single-product-reviews.php:92
-#@ wpdance
-msgid "Only logged in customers who have purchased this product may leave a review."
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
 msgstr ""
+"Отзывы могут оставлять только зарегистрированные покупатели данного товара."
 
+# @ wpdance
 #: bbpress/loop-forums.php:21
-#@ wpdance
 msgid "Forum"
-msgstr ""
+msgstr "Форум"
 
+# @ wpdance
 #: bbpress/loop-forums.php:22
-#@ wpdance
 msgid "Topics"
-msgstr ""
+msgstr "Темы"
 
-#: bbpress/loop-forums.php:23
-#: bbpress/loop-replies.php:32
-#: bbpress/loop-replies.php:70
-#: bbpress/loop-topics.php:21
-#@ wpdance
+# @ wpdance
+#: bbpress/loop-forums.php:23 bbpress/loop-replies.php:32
+#: bbpress/loop-replies.php:70 bbpress/loop-topics.php:21
 msgid "Replies"
-msgstr ""
+msgstr "Ответы"
 
-#: bbpress/loop-forums.php:23
-#: bbpress/loop-replies.php:24
-#: bbpress/loop-replies.php:66
-#: bbpress/loop-topics.php:21
-#@ wpdance
+# @ wpdance
+#: bbpress/loop-forums.php:23 bbpress/loop-replies.php:24
+#: bbpress/loop-replies.php:66 bbpress/loop-topics.php:21
 msgid "Posts"
-msgstr ""
+msgstr "Посты"
 
-#: bbpress/loop-forums.php:24
-#: bbpress/loop-topics.php:22
-#@ wpdance
+# @ wpdance
+#: bbpress/loop-forums.php:24 bbpress/loop-topics.php:22
 msgid "Freshness"
-msgstr ""
+msgstr "Свежесть"
 
+# @ wpdance
 #: content.php:109
-#@ wpdance
 msgid "View more"
-msgstr ""
+msgstr "Подробнее"
 
+# @ wpdance
 #: framework/abstract.php:123
-#@ wpdance
 msgid "Mobile Navigation"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_functions.php:160
-#@ wpdance
 msgid "All Categories"
-msgstr ""
+msgstr "Все категории"
 
+# @ wpdance
 #: framework/functions/comment.php:27
-#@ wpdance
 msgid "Your name"
-msgstr ""
+msgstr "Ваше имя"
 
+# @ wpdance
 #: framework/functions/comment.php:29
-#@ wpdance
 msgid "Your email"
-msgstr ""
+msgstr "Ваш Email"
 
+# @ wpdance
 #: framework/functions/comment.php:50
-#@ wpdance
 msgid "Be first to comment"
-msgstr ""
+msgstr "Комментируйте первым"
 
+# @ wpdance
 #: framework/functions/comment.php:53
-#@ wpdance
 msgid "Sent"
-msgstr ""
+msgstr "Отправлено"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:332
-#@ wpdance
 msgid "Account"
-msgstr ""
+msgstr "Профиль"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:338
-#@ wpdance
 msgid "Edit account"
-msgstr ""
+msgstr "Редактировать профиль"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:342
-#@ wpdance
 msgid "Forgotten Password"
-msgstr ""
+msgstr "Забыли пароль?"
 
+# @ wpdance
 #: framework/functions/custom_functions.php:344
 #: framework/functions/woo-wishlist.php:40
-#@ wpdance
 msgid "Wishlist"
-msgstr ""
+msgstr "Желаемые покупки"
 
+# @ wpdance
 #: framework/functions/custom_term.php:178
 #: framework/functions/custom_term.php:233
-#@ wpdance
 msgid "Tag Layout"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/main.php:190
-#@ wpdance
 msgid "Phone: "
-msgstr ""
+msgstr "Телефон:"
 
+# @ wpdance
 #: framework/functions/main.php:194
-#@ wpdance
 msgid "HotLine: "
-msgstr ""
+msgstr "Горячая линия:"
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:7
-#@ wpdance
 msgid "Primary Widget Area Left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:9
-#@ wpdance
 msgid "The primary left sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:16
-#@ wpdance
 msgid "Primary Widget Area Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:18
-#@ wpdance
 msgid "The primary right sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:25
-#@ wpdance
 msgid "Blog Widget Area Left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:27
-#@ wpdance
 msgid "The left widget area for blog page"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:34
-#@ wpdance
 msgid "Blog Widget Area Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:36
-#@ wpdance
 msgid "The right widget area for blog page"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:43
-#@ wpdance
 msgid "Product Category Widget Area Left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:45
-#@ wpdance
 msgid "The Product Category left sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:52
-#@ wpdance
 msgid "Product Category Widget Area Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:54
-#@ wpdance
 msgid "The Product Category right sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:61
-#@ wpdance
 msgid "Product Detail Widget Area Left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:63
-#@ wpdance
 msgid "The Product detail left sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:70
-#@ wpdance
 msgid "Product Detail Widget Area Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:72
-#@ wpdance
 msgid "The Product detail right sidebar widget area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:114
-#@ wpdance
 msgid "Top Content Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:116
-#@ wpdance
 msgid "The widget area top content"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:132
-#@ wpdance
 msgid "First Footer Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:141
-#@ wpdance
 msgid "Second Footer Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:150
-#@ wpdance
 msgid "Third Footer Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:152
-#@ wpdance
 msgid "The third footer widget area 1 (Footer Subscrible)"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:159
-#@ wpdance
 msgid "Fourth Footer Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:161
-#@ wpdance
 msgid "The fourth footer widget area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:168
-#@ wpdance
 msgid "Fifth Footer Widget Area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:170
-#@ wpdance
 msgid "The fifth footer widget area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:177
-#@ wpdance
 msgid "Fifth Footer Widget Area 2"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:179
-#@ wpdance
 msgid "The fifth footer widget area 2"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:186
-#@ wpdance
 msgid "Fifth Footer Widget Area 3"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:188
-#@ wpdance
 msgid "The fifth footer widget area 3"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:195
-#@ wpdance
 msgid "Fifth Footer Widget Area 4"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:197
-#@ wpdance
 msgid "The fifth footer widget area 4"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:204
-#@ wpdance
 msgid "Sixth Footer Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:206
-#@ wpdance
 msgid "The sixth footer widget area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-init.php:106
-#@ wpdance
 msgid "WD Mega Menu Widget Area 1"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/wdmenus-init.php:115
 #, php-format
-#@ wpdance
 msgid "WD Mega Menu Widget Area %d"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-account.php:150
 #: framework/functions/woo-account.php:164
-#@ wpdance
 msgid "Password and confirm password do not match."
-msgstr ""
+msgstr "Пароли не совпадают"
 
+# @ wpdance
 #: framework/functions/woo-cart.php:67
-#@ wpdance
 msgid "Shopping cart"
-msgstr ""
+msgstr "Корзина покупок"
 
+# @ wpdance
 #: framework/functions/woo-cart.php:120
-#@ wpdance
 msgid "Subtotal :"
-msgstr ""
+msgstr "Подитог:"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:74
-#@ wpdance
 msgid "Share "
-msgstr ""
+msgstr "Поделиться"
 
-#: framework/functions/woo-hook.php:92
-#: theme/widgets/ew_social.php:50
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:92 theme/widgets/ew_social.php:50
 msgid "Vimeo"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:459
-#@ wpdance
 msgid "Categories : "
-msgstr ""
+msgstr "Категории :"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:524
-#@ wpdance
 msgid "feature"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:528
-#@ wpdance
 msgid "save off"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:535
-#@ wpdance
 msgid "new"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:539
-#@ wpdance
 msgid "hot"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:557
-#@ wpdance
 msgid "New"
-msgstr ""
+msgstr "Новый"
 
-#: framework/functions/woo-hook.php:565
-#: framework/functions/woo-hook.php:567
-#@ wpdance
+# @ wpdance
+#: framework/functions/woo-hook.php:565 framework/functions/woo-hook.php:567
 msgid "Save off"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:571
-#@ wpdance
 msgid "Feature"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:676
-#@ wpdance
 msgid "Descriptions"
-msgstr ""
+msgstr "Описания"
 
+# @ wpdance
 #: framework/functions/woo-hook.php:867
-#@ wpdance
 msgid "Twitter ID"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/woo-hook.php:893
-#@ wpdance
 msgid "Confirm account password"
-msgstr ""
+msgstr "Подтвердить пароль"
 
+# @ wpdance
 #: framework/widgets/twitterupdate.php:82
-#@ wpdance
 msgid " by "
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:244
-#@ wpdance
 msgid "Limit post"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:246
-#@ wpdance
 msgid "Limit excerpt word"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:250
-#@ wpdance
 msgid "Show thumbnail image"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:254
-#@ wpdance
 msgid "Show post title"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:258
-#@ wpdance
 msgid "Show post excerpt"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:262
-#@ wpdance
 msgid "Show date time"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:266
-#@ wpdance
 msgid "Show author"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:270
-#@ wpdance
 msgid "Show read more button"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:275
 #: theme/widgets/bbpress_recent_posts.php:158
 #: theme/widgets/best_selling_product.php:172
@@ -3823,956 +3842,956 @@ msgstr ""
 #: theme/widgets/recent_comments_custom.php:215
 #: theme/widgets/recent_product_slider.php:220
 #: theme/widgets/related_upsell_product.php:291
-#@ wpdance
 msgid "Slider mode"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:279
 #: theme/widgets/bbpress_recent_posts.php:162
 #: theme/widgets/popular_product_by_categories.php:334
 #: theme/widgets/recent_comments_custom.php:219
 #: theme/widgets/related_upsell_product.php:295
-#@ wpdance
 msgid "Slider - Show navigation button"
 msgstr ""
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:283
 #: theme/widgets/bbpress_recent_posts.php:166
 #: theme/widgets/popular_product_by_categories.php:338
 #: theme/widgets/recent_comments_custom.php:223
 #: theme/widgets/related_upsell_product.php:299
-#@ wpdance
 msgid "Slider - Auto play"
 msgstr ""
 
+# @ wpdance
 #: theme/functions/filter_theme.php:218
-#@ wpdance
 msgid "search entries store ..."
-msgstr ""
+msgstr "поиск записей магазина ..."
 
+# @ wpdance
 #: theme/widgets/bbpress_recent_posts.php:68
 #: theme/widgets/recent_comments_custom.php:77
-#@ wpdance
 msgid "View Tweet"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:183
-#@ wpdance
 msgid "All Posts"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:193
-#@ wpdance
 msgid "Post type"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:202
-#@ wpdance
 msgid "Show Avatar"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:206
-#@ wpdance
 msgid "Show Author"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:210
-#@ wpdance
 msgid "Show Twitter"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_comments_custom.php:226
-#@ wpdance
 msgid "Slider - Number of Comments per slide"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:50
-#@ wpdance
 msgid "Watch Us"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:109
-#@ wpdance
 msgid "Enter your Vimeo ID"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_social.php:112
-#@ wpdance
 msgid "Show tooltip"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:9
-#@ wpdance
 msgid "Display WooCommerce Popular Product by Categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:10
-#@ wpdance
 msgid "WD - Popular Product By Categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:280
 #: theme/widgets/tab_product.php:367
-#@ wpdance
 msgid "Select Categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:298
-#@ wpdance
 msgid "Number of products per category"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:341
-#@ wpdance
 msgid "Number of products per category per slide"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:9
-#@ wpdance
 msgid "Display Woocommerce Product Categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:10
-#@ wpdance
 msgid "WD - Product Categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:217
-#@ wpdance
 msgid "Show post count"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:221
-#@ wpdance
 msgid "Show sub categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_forums.php:136
 #: theme/widgets/product_categories.php:225
-#@ wpdance
 msgid "Dropdown mode"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:228
-#@ wpdance
 msgid "Number of highest parent categories to show"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:232
-#@ wpdance
 msgid "Order by"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:235
-#@ wpdance
 msgid "Slug"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:236
-#@ wpdance
 msgid "Number product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/product_categories.php:238
-#@ wpdance
 msgid "None"
 msgstr ""
 
-#: theme/widgets/product_categories.php:244
-#: theme/widgets/testimonial.php:194
-#@ wpdance
+# @ wpdance
+#: theme/widgets/product_categories.php:244 theme/widgets/testimonial.php:194
 msgid "Ascending"
 msgstr ""
 
-#: theme/widgets/product_categories.php:245
-#: theme/widgets/testimonial.php:193
-#@ wpdance
+# @ wpdance
+#: theme/widgets/product_categories.php:245 theme/widgets/testimonial.php:193
 msgid "Descending"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_product_slider.php:9
-#@ wpdance
 msgid "Display WooCommerce Recent Product Slider"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/recent_product_slider.php:10
-#@ wpdance
 msgid "WD - Recent Product Slider"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:162
 #: theme/widgets/hot_product.php:176
 #: theme/widgets/recent_product_slider.php:184
 #: theme/widgets/related_upsell_product.php:249
-#@ wpdance
 msgid "A number of products"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:166
 #: theme/widgets/hot_product.php:180
 #: theme/widgets/recent_product_slider.php:188
 #: theme/widgets/related_upsell_product.php:302
-#@ wpdance
 msgid "A number of products per slide"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:176
 #: theme/widgets/hot_product.php:190
 #: theme/widgets/recent_product_slider.php:224
-#@ wpdance
 msgid "Show navigation button"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/best_selling_product.php:180
 #: theme/widgets/hot_product.php:194
 #: theme/widgets/recent_product_slider.php:228
-#@ wpdance
 msgid "Auto play"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:9
-#@ wpdance
-msgid "Display WooCommerce Related or Upsell product. It only is shown in Single Product page"
+msgid ""
+"Display WooCommerce Related or Upsell product. It only is shown in Single "
+"Product page"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:10
-#@ wpdance
 msgid "WD - Related Upsell Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:242
-#@ wpdance
 msgid "Product type"
-msgstr ""
+msgstr "Тип товара"
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:244
-#@ wpdance
 msgid "Related Product"
-msgstr ""
+msgstr "Связанные товары"
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:245
-#@ wpdance
 msgid "Upsell Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:254
-#@ wpdance
 msgid "Show product image"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:308
 #: theme/widgets/recent_product_slider.php:198
 #: theme/widgets/related_upsell_product.php:258
 #: theme/widgets/tab_product.php:397
-#@ wpdance
 msgid "Show categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:312
 #: theme/widgets/recent_product_slider.php:202
 #: theme/widgets/related_upsell_product.php:262
 #: theme/widgets/tab_product.php:401
-#@ wpdance
 msgid "Show product title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:266
-#@ wpdance
 msgid "Show product price"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:270
-#@ wpdance
 msgid "Show product short description"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:274
-#@ wpdance
 msgid "Show Add to cart button"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:278
-#@ wpdance
 msgid "Show product rating"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:282
-#@ wpdance
 msgid "Show wishlist button"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/related_upsell_product.php:286
-#@ wpdance
 msgid "Show compare button"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:9
-#@ wpdance
 msgid "Display Testimonial - Use Testimonial By Wootheme Plugin"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:10
-#@ wpdance
 msgid "WD - Testimonials"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:86
-#@ wpdance
 msgid "VIEW TWEET"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:187
-#@ wpdance
 msgid "No order"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:211
-#@ wpdance
 msgid "Order by:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:219
-#@ wpdance
 msgid "Order Direction:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:228
-#@ wpdance
 msgid "Display Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:232
-#@ wpdance
 msgid "Display Avatar"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:236
-#@ wpdance
 msgid "Display Twitter"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:241
-#@ wpdance
 msgid "All Category"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:248
-#@ wpdance
 msgid "Specific IDs:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:250
-#@ wpdance
 msgid "Display a list specific testimonial. Add commas between IDs"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:254
-#@ wpdance
 msgid "Slider Mode"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:258
-#@ wpdance
 msgid "Slider - Show Navigation"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/testimonial.php:262
-#@ wpdance
 msgid "Slider - Auto Play"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:6
-#@ wpdance
 msgid "Present your tag"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:7
-#@ wpdance
 msgid "WD - Tag Cloud"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:18
-#@ wpdance
 msgid "Tag"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:177
-#@ wpdance
 msgid "Post tag"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:181
-#@ wpdance
 msgid "Post category"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:185
-#@ wpdance
 msgid "Product tag"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:189
-#@ wpdance
 msgid "Product category"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:192
-#@ wpdance
 msgid "Font size:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:193
-#@ wpdance
 msgid "Min"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:195
-#@ wpdance
 msgid "Max"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:201
-#@ wpdance
 msgid "Flash mode"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:204
-#@ wpdance
 msgid "Background color:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:209
-#@ wpdance
 msgid "Background transparent"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:212
-#@ wpdance
 msgid "Tag color:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:216
-#@ wpdance
 msgid "Color for gradient:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:220
-#@ wpdance
 msgid "Highlight color:"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/wd_tag_cloud.php:224
-#@ wpdance
 msgid "Speed:"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-totals.php:16
-#@ wpdance
 msgid "Order total"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart-totals.php:75
-#@ wpdance
 msgid "GrandTotal"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart.php:140
-#@ wpdance
 msgid "Back To Shop"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cart.php:165
-#@ wpdance
 msgid "Discount code"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/cross-sells.php:38
-#@ wpdance
 msgid "You may also like"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:22
-#@ wpdance
 msgid "Caculate shipping"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:25
-#@ wpdance
 msgid "Country"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:45
 #: woocommerce/cart/shipping-calculator.php:51
 #: woocommerce/cart/shipping-calculator.php:66
-#@ wpdance
 msgid "State / Province"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/cart/shipping-calculator.php:82
-#@ wpdance
 msgid "Zip / Postal code"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-checkout.php:65
-#@ wpdance
 msgid ""
 "Register with us for future convenience:<br/>\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t+ Fast and easy checkout.<br/>\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t+ Easy access to your dorder history and status."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-coupon.php:23
-#@ wpdance
 msgid "Have a coupon"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-coupon.php:25
-#@ wpdance
 msgid "Click here enter code"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/checkout/form-login.php:24
-#@ wpdance
-msgid "If you have shopped with us before, please enter your details in the boxes below.If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below.If you are a new customer please proceed to the Billing &amp; Shipping "
+"section."
 msgstr ""
 
+# @ wpdance
 #: woocommerce/loop/rating.php:28
-#@ wpdance
 msgid "reviews"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/loop/rating.php:28
-#@ wpdance
 msgid "review"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:24
-#@ wpdance
 msgid "My account"
-msgstr ""
+msgstr "Мой профиль"
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:58
-#@ wpdance
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Забыли пароль?"
 
+# @ wpdance
 #: woocommerce/myaccount/form-login.php:98
-#@ wpdance
 msgid "Confirm Password"
-msgstr ""
+msgstr "Подтвердить пароль"
 
+# @ wpdance
 #: woocommerce/myaccount/my-account.php:22
 #, php-format
-#@ wpdance
-msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses <div class=\"myaccount_action\"> and <a href=\"%s\">change your password</a></div>"
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses <div class="
+"\"myaccount_action\"> and <a href=\"%s\">change your password</a></div>"
 msgstr ""
 
+# @ wpdance
 #: woocommerce/single-product/add-to-cart/quantity.php:12
-#@ wpdance
 msgctxt "Product quantity input tooltip"
 msgid "Quantity"
-msgstr ""
+msgstr "Количество"
 
+# @ wpdance
 #: woocommerce/single-product/sale-flash.php:21
-#@ wpdance
 msgid "Sale off"
 msgstr ""
 
+# @ wpdance
 #: bbpress/content-single-topic-lead.php:18
 #: bbpress/content-single-topic-lead.php:90
-#@ wpdance
 msgid "Creator"
 msgstr ""
 
+# @ wpdance
 #: bbpress/content-single-topic-lead.php:22
-#: bbpress/content-single-topic-lead.php:94
-#: bbpress/loop-topics.php:19
-#@ wpdance
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
 msgid "Topic"
 msgstr ""
 
-#: bbpress/loop-replies.php:18
-#: bbpress/loop-replies.php:60
-#@ wpdance
+# @ wpdance
+#: bbpress/loop-replies.php:18 bbpress/loop-replies.php:60
 msgid "Author"
 msgstr ""
 
+# @ wpdance
 #: bbpress/loop-single-reply.php:40
-#@ wpdance
 msgid "Postcount "
 msgstr ""
 
+# @ wpdance
 #: bbpress/loop-single-reply.php:45
-#@ wpdance
 msgid "in reply to: "
 msgstr ""
 
+# @ wpdance
 #: bbpress/loop-single-topic.php:60
 #, php-format
-#@ wpdance
 msgid "Started by: %1$s"
 msgstr ""
 
+# @ wpdance
 #: bbpress/loop-single-topic.php:68
 #, php-format
-#@ wpdance
 msgid "in: <a href=\"%1$s\">%2$s</a>"
 msgstr ""
 
+# @ wpdance
 #: bbpress/loop-topics.php:20
-#@ wpdance
 msgid "Voices"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:20
 #, php-format
-#@ wpdance
 msgid "%s's Profile"
 msgstr ""
 
-#: bbpress/user-details.php:20
-#: bbpress/user-profile.php:15
-#@ wpdance
+# @ wpdance
+#: bbpress/user-details.php:20 bbpress/user-profile.php:15
 msgid "Profile"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:26
 #, php-format
-#@ wpdance
 msgid "%s's Topics Started"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:26
-#@ wpdance
 msgid "Topics Started"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:32
 #, php-format
-#@ wpdance
 msgid "%s's Replies Created"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:32
-#@ wpdance
 msgid "Replies Created"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:39
 #, php-format
-#@ wpdance
 msgid "%s's Favorites"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:39
-#@ wpdance
 msgid "Favorites"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:49
 #, php-format
-#@ wpdance
 msgid "%s's Subscriptions"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:49
-#@ wpdance
 msgid "Subscriptions"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-details.php:56
 #, php-format
-#@ wpdance
 msgid "Edit %s's Profile"
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-profile.php:26
-#@ wpdance
 msgid "Forum Role: "
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-profile.php:27
-#@ wpdance
 msgid "Topics Started: "
 msgstr ""
 
+# @ wpdance
 #: bbpress/user-profile.php:28
-#@ wpdance
 msgid "Replies Created: "
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:25
 #: framework/functions/breadcrumbs.php:224
-#@ wpdance
 msgid "Home"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:28
-#@ wpdance
 msgid "Search results for "
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:30
-#@ wpdance
 msgid "Tagged "
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:31
-#@ wpdance
 msgid "Articles posted by "
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:298
 #: framework/functions/breadcrumbs.php:412
 #, php-format
-#@ wpdance
 msgid "Topic Tag: %s"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:319
-#@ wpdance
 msgid "&laquo;"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/breadcrumbs.php:319
-#@ wpdance
 msgid "&raquo;"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:91
-#@ wpdance
 msgid "Forum Widget Area Left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:93
-#@ wpdance
 msgid "The forum widget area left"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:101
-#@ wpdance
 msgid "Forum Widget Area Right"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:103
-#@ wpdance
 msgid "The forum widget area right"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_forums.php:9
-#@ wpdance
 msgid "Display List Forums"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_forums.php:10
-#@ wpdance
 msgid "WD - bbPress Forums"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_recent_posts.php:9
-#@ wpdance
 msgid "Display Recent Posts of Forum"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_recent_posts.php:10
-#@ wpdance
 msgid "WD - bbPress Recent Posts"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/bbpress_recent_posts.php:152
-#@ wpdance
 msgid "Limit"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/admin.php:114
-#@ wpdance
 msgid "Select Category"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:106
-#@ wpdance
 msgid "Product Slider - Category"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:214
-#@ wpdance
 msgid "Hide Top Content Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/admin/template/custom_fields/page_configuration.php:223
-#@ wpdance
 msgid "Hide Banner Top Content Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/custom_functions.php:385
 #, php-format
-#@ wpdance
 msgid "Rated %s out of 5"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/main.php:848
-#@ wpdance
 msgid "Top"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:123
-#@ wpdance
 msgid "Banner Top Content Widget Area"
 msgstr ""
 
+# @ wpdance
 #: framework/functions/theme_sidebar.php:125
-#@ wpdance
 msgid "The widget area banner top content"
 msgstr ""
 
+# @ wpdance
 #. translators: used between list items, there is a space after the comma
 #: single-portfolio.php:111
-#@ wpdance
 msgid "Categories "
-msgstr ""
+msgstr "Категории"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:37
-#@ wpdance
 msgid "Current Password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Текущий пароль (оставьте пустым, чтобы сохранить неизменным)"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:41
-#@ wpdance
 msgid "New password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Новый пароль (оставьте пустым, чтобы сохранить неизменным)"
 
+# @ wpdance
 #: woocommerce/myaccount/form-edit-account.php:45
-#@ wpdance
 msgid "Confirm New Password"
-msgstr ""
+msgstr "Подтвердить новый пароль"
 
-#: framework/functions/main.php:126
-#: framework/functions/woo-cart.php:28
-#@ wpdance
+# @ wpdance
+#: framework/functions/main.php:126 framework/functions/woo-cart.php:28
 msgid "My cart"
-msgstr ""
+msgstr "Моя корзина"
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:98
-#@ wpdance
 msgid "Post by "
-msgstr ""
+msgstr "Опубликовано "
 
+# @ wpdance
 #: framework/widgets/wd_recent_post.php:238
-#@ wpdance
 msgid "Type to show"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/ew_subscriptions.php:39
-#@ wpdance
 msgid "Enter your email address"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:304
 #: theme/widgets/recent_product_slider.php:194
 #: theme/widgets/tab_product.php:393
-#@ wpdance
 msgid "Show thumbnail"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:316
 #: theme/widgets/recent_product_slider.php:206
 #: theme/widgets/tab_product.php:405
-#@ wpdance
 msgid "Show price"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:320
 #: theme/widgets/recent_product_slider.php:210
 #: theme/widgets/tab_product.php:409
-#@ wpdance
 msgid "Show rating"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/popular_product_by_categories.php:324
 #: theme/widgets/recent_product_slider.php:214
-#@ wpdance
 msgid "Show add to cart button"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:9
-#@ wpdance
 msgid "Display WooCommerce Product width Multi Tab"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:10
-#@ wpdance
 msgid "WD - Tab Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:323
-#@ wpdance
 msgid "Show New Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:326
-#@ wpdance
 msgid "New Product Tab Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:332
-#@ wpdance
 msgid "Show Feature Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:335
-#@ wpdance
 msgid "Feature Product Tab Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:341
-#@ wpdance
 msgid "Show Hot Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:344
-#@ wpdance
 msgid "Hot Product Tab Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:350
-#@ wpdance
 msgid "Show Best Selling Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:353
-#@ wpdance
 msgid "Best Selling Product Tab Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:359
-#@ wpdance
 msgid "Show Sale Product"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:362
-#@ wpdance
 msgid "Sale Product Tab Title"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:383
-#@ wpdance
 msgid "Don't select to filter by all categories"
 msgstr ""
 
+# @ wpdance
 #: theme/widgets/tab_product.php:387
-#@ wpdance
 msgid "Number of products for each type"
 msgstr ""
 
+# @ wpdance
 #: theme/includes/class-tgm-plugin-activation.php:174
-#@ wpdance
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
 msgstr[0] ""
 msgstr[1] ""
 
+# @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:176
-#@ tgmpa
 msgid "Return to the dashboard"
 msgstr ""
-
