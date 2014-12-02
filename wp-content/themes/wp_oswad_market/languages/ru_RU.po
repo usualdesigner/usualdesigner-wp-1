@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WD OSWAD MARKET v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-27 13:33+0300\n"
+"PO-Revision-Date: 2014-12-02 11:01+0300\n"
 "Last-Translator: admin <linhnguyen@codespot.vn>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -403,7 +403,7 @@ msgstr ""
 #: framework/admin/template/epanel/general.php:211
 #: woocommerce/loop/orderby.php:19
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 # @ wpdance
 #: framework/admin/template/epanel/custom-interface.php:347
@@ -1724,7 +1724,7 @@ msgstr "Способ оплаты:"
 #: woocommerce/single-product/add-to-cart/simple.php:46
 #: woocommerce/single-product/add-to-cart/variable.php:89
 msgid "Add to cart"
-msgstr "Добавить в корзину"
+msgstr "В корзину"
 
 # @ wpdance
 #: woocommerce/loop/no-products-found.php:14
@@ -1884,7 +1884,7 @@ msgstr "Номер заказа"
 # @ wpdance
 #: woocommerce/order/form-tracking.php:19
 msgid "Found in your order confirmation email."
-msgstr ""
+msgstr "Найдете в подтверждении заказа."
 
 # @ wpdance
 #: woocommerce/order/form-tracking.php:20
@@ -2036,8 +2036,8 @@ msgstr "Быстрый обзор"
 #, php-format
 msgid "%s review for %s"
 msgid_plural "%s reviews for %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s комментарий к %s"
+msgstr[1] "%s комментариев к %s"
 
 # @ wpdance
 #: woocommerce/single-product-reviews.php:23
@@ -2497,13 +2497,13 @@ msgstr ""
 #: theme/includes/class-tgm-plugin-activation.php:2052
 #: theme/includes/class-tgm-plugin-activation.php:2061
 msgid "Show Details"
-msgstr ""
+msgstr "Показать подробности"
 
 # @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2052
 #: theme/includes/class-tgm-plugin-activation.php:2061
 msgid "Hide Details"
-msgstr ""
+msgstr "Скрыть подробности"
 
 # @ tgmpa
 #: theme/includes/class-tgm-plugin-activation.php:2053
@@ -3006,7 +3006,7 @@ msgstr ""
 #: admin/functions/functions.options.php:2526
 #: framework/functions/custom_style.php:245
 msgid "Custom Tab"
-msgstr ""
+msgstr "Кастомный таб"
 
 # @ wpdance
 #: admin/functions/functions.options.php:2761
@@ -3115,7 +3115,7 @@ msgstr "Написать отзыв об этом товаре"
 # @ wpdance
 #: framework/functions/woo-hook.php:849
 msgid "Add to Cart"
-msgstr "Добавить в корзину"
+msgstr "В корзину"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:883
@@ -3315,7 +3315,7 @@ msgstr "Автор:"
 # @ wpdance
 #: woocommerce/loop/result-count.php:28
 msgid "Showing the single result"
-msgstr ""
+msgstr "Показан один результат"
 
 # @ wpdance
 #: woocommerce/loop/result-count.php:30
@@ -3328,7 +3328,7 @@ msgstr ""
 #, php-format
 msgctxt "%1$d = first, %2$d = last, %3$d = total"
 msgid "Showing %1$d&ndash;%2$d of %3$d Result"
-msgstr ""
+msgstr "Показано %1$d&ndash;%2$d из %3$d товаров"
 
 # @ wpdance
 #: woocommerce/myaccount/form-add-payment-method.php:40
@@ -3741,12 +3741,12 @@ msgstr "Категории :"
 # @ wpdance
 #: framework/functions/woo-hook.php:524
 msgid "feature"
-msgstr ""
+msgstr "новинка"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:528
 msgid "save off"
-msgstr ""
+msgstr "экономьте"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:535
@@ -3756,7 +3756,7 @@ msgstr ""
 # @ wpdance
 #: framework/functions/woo-hook.php:539
 msgid "hot"
-msgstr ""
+msgstr "горячие предложения"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:557
@@ -3766,12 +3766,12 @@ msgstr "Новый"
 # @ wpdance
 #: framework/functions/woo-hook.php:565 framework/functions/woo-hook.php:567
 msgid "Save off"
-msgstr ""
+msgstr "цена снижена"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:571
 msgid "Feature"
-msgstr ""
+msgstr "новинка"
 
 # @ wpdance
 #: framework/functions/woo-hook.php:676
@@ -4071,7 +4071,7 @@ msgstr "Связанные товары"
 # @ wpdance
 #: theme/widgets/related_upsell_product.php:245
 msgid "Upsell Product"
-msgstr ""
+msgstr "Похожие товары"
 
 # @ wpdance
 #: theme/widgets/related_upsell_product.php:254
@@ -4360,12 +4360,12 @@ msgstr ""
 # @ wpdance
 #: woocommerce/loop/rating.php:28
 msgid "reviews"
-msgstr ""
+msgstr "отзыва"
 
 # @ wpdance
 #: woocommerce/loop/rating.php:28
 msgid "review"
-msgstr ""
+msgstr "отзыв"
 
 # @ wpdance
 #: woocommerce/myaccount/form-login.php:24
@@ -4390,6 +4390,9 @@ msgid ""
 "recent orders, manage your shipping and billing addresses <div class="
 "\"myaccount_action\"> and <a href=\"%s\">change your password</a></div>"
 msgstr ""
+"Здравствуйте, <strong>%s</strong>. На странице аккаунта Вы можете "
+"просматривать последние заказы, управлять адресами доставки <div class="
+"\"myaccount_action\"> и <a href=\"%s\">сменить пароль</a></div>"
 
 # @ wpdance
 #: woocommerce/single-product/add-to-cart/quantity.php:12
@@ -4634,7 +4637,7 @@ msgstr ""
 # @ wpdance
 #: framework/functions/main.php:848
 msgid "Top"
-msgstr ""
+msgstr "Вверх"
 
 # @ wpdance
 #: framework/functions/theme_sidebar.php:123
@@ -4670,7 +4673,7 @@ msgstr "Подтвердить новый пароль"
 # @ wpdance
 #: framework/functions/main.php:126 framework/functions/woo-cart.php:28
 msgid "My cart"
-msgstr "Моя корзина"
+msgstr "Корзина"
 
 # @ wpdance
 #: framework/widgets/wd_recent_post.php:98
@@ -4685,7 +4688,7 @@ msgstr ""
 # @ wpdance
 #: theme/widgets/ew_subscriptions.php:39
 msgid "Enter your email address"
-msgstr ""
+msgstr "Введите Ваш email"
 
 # @ wpdance
 #: theme/widgets/popular_product_by_categories.php:304
