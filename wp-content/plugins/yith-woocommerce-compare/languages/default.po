@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: YITH Woocommerce Compare\n"
-"POT-Creation-Date: 2014-02-13 09:30+0100\n"
-"PO-Revision-Date: 2014-02-13 09:30+0100\n"
+"POT-Creation-Date: 2014-12-03 12:49+0100\n"
+"PO-Revision-Date: 2014-12-03 12:49+0100\n"
 "Last-Translator: Nicola Mustone <mail@nicolamustone.it>\n"
 "Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
 "Language: English\n"
@@ -14,19 +14,23 @@ msgstr ""
 "X-Poedit-Basepath: ./\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../class.yith-woocompare-admin.php:129
+#: ../class.yith-woocompare-admin.php:130
 msgid "Products Compare"
 msgstr ""
 
-#: ../class.yith-woocompare-admin.php:143 ../yith-woocompare-options.php:15
+#: ../class.yith-woocompare-admin.php:144 ../yith-woocompare-options.php:24
 msgid "General Settings"
+msgstr ""
+
+#: ../class.yith-woocompare-admin.php:375
+msgid "Hard Crop?"
 msgstr ""
 
 #: ../class.yith-woocompare-frontend.php:142
 msgid "Added"
 msgstr ""
 
-#: ../class.yith-woocompare-frontend.php:143 ../templates/compare.php:50
+#: ../class.yith-woocompare-frontend.php:143 ../templates/compare.php:51
 msgid "Product Comparison"
 msgstr ""
 
@@ -34,140 +38,140 @@ msgstr ""
 msgid "In stock"
 msgstr ""
 
-#: ../class.yith-woocompare-frontend.php:337 ../yith-woocompare-options.php:38
-#: ../widgets/class.yith-woocompare-widget.php:38
+#: ../class.yith-woocompare-frontend.php:338 ../yith-woocompare-options.php:47
+#: ../widgets/class.yith-woocompare-widget.php:45
 msgid "Compare"
 msgstr ""
 
-#: ../class.yith-woocompare-frontend.php:496
+#: ../class.yith-woocompare-frontend.php:512
 msgid "No products to compare"
 msgstr ""
 
-#: ../class.yith-woocompare-frontend.php:506 ../templates/compare.php:105
+#: ../class.yith-woocompare-frontend.php:522 ../templates/compare.php:109
 msgid "Remove"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:38
+#: ../class.yith-woocompare-helper.php:39
 msgid "Image"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:39
-#: ../widgets/class.yith-woocompare-widget.php:55
+#: ../class.yith-woocompare-helper.php:40
+#: ../widgets/class.yith-woocompare-widget.php:62
 msgid "Title"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:40
+#: ../class.yith-woocompare-helper.php:41
 msgid "Price"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:41
+#: ../class.yith-woocompare-helper.php:42
 msgid "Add to cart"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:42
+#: ../class.yith-woocompare-helper.php:43
 msgid "Description"
 msgstr ""
 
-#: ../class.yith-woocompare-helper.php:43
+#: ../class.yith-woocompare-helper.php:44
 msgid "Availability"
 msgstr ""
 
-#: ../yith-woocompare-options.php:22
+#: ../yith-woocompare-options.php:31
 msgid "Link or Button"
 msgstr ""
 
-#: ../yith-woocompare-options.php:23
+#: ../yith-woocompare-options.php:32
 msgid "Choose if you want to use a link or a button for the action button."
 msgstr ""
 
-#: ../yith-woocompare-options.php:29
+#: ../yith-woocompare-options.php:38
 msgid "Link"
 msgstr ""
 
-#: ../yith-woocompare-options.php:30
+#: ../yith-woocompare-options.php:39
 msgid "Button"
 msgstr ""
 
-#: ../yith-woocompare-options.php:35
+#: ../yith-woocompare-options.php:44
 msgid "Link/Button text"
 msgstr ""
 
-#: ../yith-woocompare-options.php:36
+#: ../yith-woocompare-options.php:45
 msgid "Type the text to use for the button or the link of the compare."
 msgstr ""
 
-#: ../yith-woocompare-options.php:43
+#: ../yith-woocompare-options.php:52
 msgid "Show button in single product page"
 msgstr ""
 
-#: ../yith-woocompare-options.php:44
+#: ../yith-woocompare-options.php:53
 msgid "Say if you want to show the button in the single product page."
 msgstr ""
 
-#: ../yith-woocompare-options.php:52
+#: ../yith-woocompare-options.php:61
 msgid "Show button in products list"
 msgstr ""
 
-#: ../yith-woocompare-options.php:53
+#: ../yith-woocompare-options.php:62
 msgid "Say if you want to show the button in the products list."
 msgstr ""
 
-#: ../yith-woocompare-options.php:61
+#: ../yith-woocompare-options.php:70
 msgid "Open automatically lightbox"
 msgstr ""
 
-#: ../yith-woocompare-options.php:62
+#: ../yith-woocompare-options.php:71
 msgid "Open link after click into \"Compare\" button\"."
 msgstr ""
 
-#: ../yith-woocompare-options.php:74
+#: ../yith-woocompare-options.php:83
 msgid "Table Settings"
 msgstr ""
 
-#: ../yith-woocompare-options.php:81
+#: ../yith-woocompare-options.php:90
 msgid "Table title"
 msgstr ""
 
-#: ../yith-woocompare-options.php:82
+#: ../yith-woocompare-options.php:91
 msgid "Type the text to use for the table title."
 msgstr ""
 
-#: ../yith-woocompare-options.php:84
+#: ../yith-woocompare-options.php:93
 msgid "Compare products"
 msgstr ""
 
-#: ../yith-woocompare-options.php:89
+#: ../yith-woocompare-options.php:98
 msgid "Fields to show"
 msgstr ""
 
-#: ../yith-woocompare-options.php:90 ../yith-woocompare-options.php:99
-#: ../yith-woocompare-options.php:108
+#: ../yith-woocompare-options.php:99 ../yith-woocompare-options.php:108
+#: ../yith-woocompare-options.php:117
 msgid ""
 "Select the fields to show in the comparison table and order them by "
 "drag&drop (are included also the woocommerce attributes)"
 msgstr ""
 
-#: ../yith-woocompare-options.php:98
+#: ../yith-woocompare-options.php:107
 msgid "Repeat \"Price\" field at the end of the table"
 msgstr ""
 
-#: ../yith-woocompare-options.php:107
+#: ../yith-woocompare-options.php:116
 msgid "Repeat \"Add to cart\" field at the end of the table"
 msgstr ""
 
-#: ../yith-woocompare-options.php:116
+#: ../yith-woocompare-options.php:125
 msgid "Image size"
 msgstr ""
 
-#: ../yith-woocompare-options.php:117
+#: ../yith-woocompare-options.php:126
 msgid "Set the size for the images"
 msgstr ""
 
-#: ../templates/compare.php:72
+#: ../templates/compare.php:76
 msgid "Close window [X]"
 msgstr ""
 
-#: ../templates/compare.php:97
+#: ../templates/compare.php:101
 msgid "No products added in the compare table."
 msgstr ""
 
@@ -179,7 +183,7 @@ msgstr ""
 msgid "YITH Woocommerce Compare Widget"
 msgstr ""
 
-#: ../widgets/class.yith-woocompare-widget.php:37
+#: ../widgets/class.yith-woocompare-widget.php:44
 msgid "Clear all"
 msgstr ""
 

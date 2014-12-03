@@ -334,10 +334,12 @@ if( !class_exists( 'YITH_Woocompare_Frontend' ) ) {
 
             $is_button = !isset( $button_or_link ) || !$button_or_link ? get_option( 'yith_woocompare_is_button' ) : $button_or_link;
 
-            $button_text = get_option( 'yith_woocompare_button_text', __( 'Compare', 'yit' ) );
-            $localized_button_text = function_exists( 'icl_translate' ) ? icl_translate( 'Plugins', 'plugin_yit_compare_button_text', $button_text ) : $button_text;
+            if ( ! isset( $button_text ) || $button_text == 'default' ) {
+                $button_text = get_option( 'yith_woocompare_button_text', __( 'Compare', 'yit' ) );
+                $button_text = function_exists( 'icl_translate' ) ? icl_translate( 'Plugins', 'plugin_yit_compare_button_text', $button_text ) : $button_text;
+            }
 
-            printf( '<a href="%s" class="%s" data-product_id="%d">%s</a>', $this->add_product_url( $product_id ), 'compare' . ( $is_button == 'button' ? ' button' : '' ), $product_id, ( isset( $button_text ) && $button_text != 'default' ? $button_text : $localized_button_text ) );
+            printf( '<a href="%s" class="%s" data-product_id="%d">%s</a>', $this->add_product_url( $product_id ), 'compare' . ( $is_button == 'button' ? ' button' : '' ), $product_id, $button_text );
         }
 
         /**

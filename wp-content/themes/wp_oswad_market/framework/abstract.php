@@ -343,8 +343,8 @@ class EWAbstractTheme
 		
 		$protocol = is_ssl() ? 'https' : 'http';
 		wp_enqueue_style( THEME_SLUG.'open-sans', "$protocol://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300" );
-		wp_enqueue_style( THEME_SLUG.'roboto-condensed',"$protocol://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,400,700,300" );
-		
+		wp_enqueue_style( THEME_SLUG.'roboto-condensed',"$protocol://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,400,700,300&subset=latin,cyrillic,cyrillic-ext" );
+
 		wp_enqueue_style( strtolower(str_replace(' ','',THEME_NAME)), get_stylesheet_uri() ); 
 		
 		wp_register_script( 'TweenMax', THEME_FRAMEWORK_JS_URI.'/TweenMax.js',false,false,true);
