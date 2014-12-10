@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WD OSWAD MARKET v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-12-02 11:01+0300\n"
+"PO-Revision-Date: 2014-12-09 15:58+0300\n"
 "Last-Translator: admin <linhnguyen@codespot.vn>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2614,7 +2614,7 @@ msgstr ""
 #: woocommerce/checkout/form-checkout.php:144
 #: woocommerce/checkout/form-checkout.php:159
 msgid "Continue"
-msgstr ""
+msgstr "Продолжить"
 
 # @ wpdance
 #: archive.php:21
@@ -2901,12 +2901,12 @@ msgstr ""
 # @ wpdance
 #: woocommerce/cart/cart.php:26 woocommerce/checkout/review-order.php:21
 msgid "Items"
-msgstr ""
+msgstr "Товары"
 
 # @ wpdance
 #: woocommerce/cart/cart.php:167
 msgid "Enter your coupon code if your have one"
-msgstr ""
+msgstr "Введите код купона если он у Вас есть"
 
 # @ wpdance
 #: woocommerce/cart/mini-cart.php:56
@@ -4287,22 +4287,22 @@ msgstr ""
 # @ wpdance
 #: woocommerce/cart/cart-totals.php:16
 msgid "Order total"
-msgstr ""
+msgstr "Итого"
 
 # @ wpdance
 #: woocommerce/cart/cart-totals.php:75
 msgid "GrandTotal"
-msgstr ""
+msgstr "Итого"
 
 # @ wpdance
 #: woocommerce/cart/cart.php:140
 msgid "Back To Shop"
-msgstr ""
+msgstr "Вернутся к покупкам"
 
 # @ wpdance
 #: woocommerce/cart/cart.php:165
 msgid "Discount code"
-msgstr ""
+msgstr "Код скидки"
 
 # @ wpdance
 #: woocommerce/cart/cross-sells.php:38
@@ -4312,24 +4312,24 @@ msgstr ""
 # @ wpdance
 #: woocommerce/cart/shipping-calculator.php:22
 msgid "Caculate shipping"
-msgstr ""
+msgstr "Стоимость доставки"
 
 # @ wpdance
 #: woocommerce/cart/shipping-calculator.php:25
 msgid "Country"
-msgstr ""
+msgstr "Страна"
 
 # @ wpdance
 #: woocommerce/cart/shipping-calculator.php:45
 #: woocommerce/cart/shipping-calculator.php:51
 #: woocommerce/cart/shipping-calculator.php:66
 msgid "State / Province"
-msgstr ""
+msgstr "Область"
 
 # @ wpdance
 #: woocommerce/cart/shipping-calculator.php:82
 msgid "Zip / Postal code"
-msgstr ""
+msgstr "Индекс"
 
 # @ wpdance
 #: woocommerce/checkout/form-checkout.php:65
@@ -4342,12 +4342,12 @@ msgstr ""
 # @ wpdance
 #: woocommerce/checkout/form-coupon.php:23
 msgid "Have a coupon"
-msgstr ""
+msgstr "Есть купон"
 
 # @ wpdance
 #: woocommerce/checkout/form-coupon.php:25
 msgid "Click here enter code"
-msgstr ""
+msgstr "Нажмите сюда для ввода кода"
 
 # @ wpdance
 #: woocommerce/checkout/form-login.php:24
