@@ -26,8 +26,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2014-10-29 12:16:47+00:00\n"
-"PO-Revision-Date: 2014-10-29 14:30+0000\n"
+"POT-Creation-Date: 2014-12-16 14:43:08+00:00\n"
+"PO-Revision-Date: 2014-12-11 20:45+0000\n"
 "Last-Translator: Almaz Mannanov <AlmazWorks@gmail.com>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/woocommerce/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -3046,8 +3046,8 @@ msgid "Aguascalientes"
 msgstr "Агуаскальентес"
 
 #: i18n/states/MX.php:17
-msgid "Baja California Norte"
-msgstr "Северная Нижняя Калифорния"
+msgid "Baja California"
+msgstr "Нижняя Калифорния"
 
 #: i18n/states/MX.php:18
 msgid "Baja California Sur"
@@ -4777,42 +4777,42 @@ msgstr "Вы уверены, что хотите удалить файл шаб�
 msgid "Backordered"
 msgstr "Зарезервировано"
 
-#: includes/abstracts/abstract-wc-order.php:1613
+#: includes/abstracts/abstract-wc-order.php:1611
 msgid "&nbsp;<small>%svia %s</small>"
 msgstr "&nbsp;<small>%s через %s</small>"
 
-#: includes/abstracts/abstract-wc-order.php:1618
+#: includes/abstracts/abstract-wc-order.php:1616
 #: includes/abstracts/abstract-wc-product.php:890
 #: includes/abstracts/abstract-wc-product.php:896
-#: includes/class-wc-cart.php:1443 includes/class-wc-product-variation.php:294
+#: includes/class-wc-cart.php:1474 includes/class-wc-product-variation.php:294
 msgid "Free!"
 msgstr "Бесплатно!"
 
-#: includes/abstracts/abstract-wc-order.php:1680
+#: includes/abstracts/abstract-wc-order.php:1678
 msgid "Cart Subtotal:"
 msgstr "Всего в корзине:"
 
-#: includes/abstracts/abstract-wc-order.php:1687
+#: includes/abstracts/abstract-wc-order.php:1685
 msgid "Cart Discount:"
 msgstr "Скидка на корзину:"
 
-#: includes/abstracts/abstract-wc-order.php:1694
+#: includes/abstracts/abstract-wc-order.php:1692
 msgid "Shipping:"
 msgstr "Доставка:"
 
-#: includes/abstracts/abstract-wc-order.php:1747
+#: includes/abstracts/abstract-wc-order.php:1745
 msgid "Order Discount:"
 msgstr "Скидка на заказ:"
 
-#: includes/abstracts/abstract-wc-order.php:1754
+#: includes/abstracts/abstract-wc-order.php:1752
 msgid "Payment Method:"
 msgstr "Способ оплаты:"
 
-#: includes/abstracts/abstract-wc-order.php:1760
+#: includes/abstracts/abstract-wc-order.php:1758
 msgid "Order Total:"
 msgstr "Итог по заказу:"
 
-#: includes/abstracts/abstract-wc-order.php:1780
+#: includes/abstracts/abstract-wc-order.php:1778
 #: includes/wc-cart-functions.php:252
 msgid "(Includes %s)"
 msgstr "(Включает %s)"
@@ -4821,16 +4821,16 @@ msgstr "(Включает %s)"
 msgid "WooCommerce"
 msgstr "Магазин"
 
-#: includes/abstracts/abstract-wc-order.php:2078
+#: includes/abstracts/abstract-wc-order.php:2076
 msgid "Order status changed from %s to %s."
 msgstr "Статус заказа изменен с %s на %s."
 
-#: includes/abstracts/abstract-wc-order.php:2341
-#: includes/class-wc-ajax.php:1167 includes/class-wc-ajax.php:1168
+#: includes/abstracts/abstract-wc-order.php:2339
+#: includes/class-wc-ajax.php:1199 includes/class-wc-ajax.php:1200
 msgid "Item #%s stock reduced from %s to %s."
 msgstr "Наличие товара #%s сокращено с %s до %s."
 
-#: includes/abstracts/abstract-wc-order.php:2351
+#: includes/abstracts/abstract-wc-order.php:2349
 msgid "Order item stock reduced successfully."
 msgstr "Количество товаров из заказа на складе успешно уменьшено."
 
@@ -4868,7 +4868,7 @@ msgstr "Подробнее"
 #: includes/abstracts/abstract-wc-product.php:562
 #: includes/abstracts/abstract-wc-product.php:573
 #: includes/abstracts/abstract-wc-product.php:595
-#: includes/class-wc-ajax.php:627 includes/class-wc-product-variation.php:512
+#: includes/class-wc-ajax.php:659 includes/class-wc-product-variation.php:512
 #: includes/class-wc-product-variation.php:522
 #: includes/class-wc-product-variation.php:538
 msgid "In stock"
@@ -4898,7 +4898,7 @@ msgstr "Доступно для резервирования"
 
 #: includes/abstracts/abstract-wc-product.php:600
 #: includes/abstracts/abstract-wc-product.php:606
-#: includes/class-wc-ajax.php:628 includes/class-wc-product-variation.php:541
+#: includes/class-wc-ajax.php:660 includes/class-wc-product-variation.php:541
 #: includes/class-wc-product-variation.php:545
 msgid "Out of stock"
 msgstr "Нет в наличии"
@@ -5069,199 +5069,199 @@ msgstr "Поддержка JSONP на этом сайте отключена"
 msgid "The JSONP callback function is invalid"
 msgstr "Вызываемая в JSONP функция некорректна"
 
-#: includes/api/class-wc-api-orders.php:304
+#: includes/api/class-wc-api-orders.php:312
 #: includes/api/v1/class-wc-api-orders.php:258
 msgid "You do not have permission to read the orders count"
 msgstr "У вас нет прав на просмотр количества заказов"
 
-#: includes/api/class-wc-api-orders.php:346
+#: includes/api/class-wc-api-orders.php:354
 msgid "You do not have permission to create orders"
 msgstr "У вас нет прав для создания заказов"
 
-#: includes/api/class-wc-api-orders.php:362
-#: includes/api/class-wc-api-orders.php:498
+#: includes/api/class-wc-api-orders.php:370
+#: includes/api/class-wc-api-orders.php:506
 msgid "Customer ID is invalid"
 msgstr "Неправильный ID клиента"
 
-#: includes/api/class-wc-api-orders.php:372
+#: includes/api/class-wc-api-orders.php:380
 msgid "Cannot create order: %s"
 msgstr "Ошибка создания заказа: %s"
 
-#: includes/api/class-wc-api-orders.php:406
+#: includes/api/class-wc-api-orders.php:414
 msgid "Payment method ID and title are required"
 msgstr "Требуется ввод названия и ID метода оплаты"
 
-#: includes/api/class-wc-api-orders.php:422
-#: includes/api/class-wc-api-orders.php:569
+#: includes/api/class-wc-api-orders.php:430
+#: includes/api/class-wc-api-orders.php:577
 msgid "Provided order currency is invalid"
 msgstr "Неправильный тип валюты заказа"
 
-#: includes/api/class-wc-api-orders.php:524
+#: includes/api/class-wc-api-orders.php:532
 msgid "Order item ID is required"
 msgstr "Требуется ввод ID позиций заказа"
 
-#: includes/api/class-wc-api-orders.php:795
+#: includes/api/class-wc-api-orders.php:803
 msgid "Order item ID provided is not associated with order"
 msgstr "ID позиции заказа не ассоциирован с заказом"
 
-#: includes/api/class-wc-api-orders.php:817
+#: includes/api/class-wc-api-orders.php:825
 msgid "Product ID is required"
 msgstr "Требуется ввод ID продукта"
 
-#: includes/api/class-wc-api-orders.php:827
+#: includes/api/class-wc-api-orders.php:835
 msgid "Product ID provided does not match this line item"
 msgstr "ID продукта не соответствует позиции"
 
-#: includes/api/class-wc-api-orders.php:835
+#: includes/api/class-wc-api-orders.php:843
 msgid "Product is invalid"
 msgstr "Продукт является недействительным"
 
-#: includes/api/class-wc-api-orders.php:840
+#: includes/api/class-wc-api-orders.php:848
 msgid "Product quantity must be a positive float"
 msgstr "Количество продуктов должно быть положительным числом с точкой"
 
-#: includes/api/class-wc-api-orders.php:845
+#: includes/api/class-wc-api-orders.php:853
 msgid "Product quantity is required"
 msgstr "Требуется ввод количества для продукта"
 
-#: includes/api/class-wc-api-orders.php:859
+#: includes/api/class-wc-api-orders.php:867
 msgid "The product variation is invalid"
 msgstr "Неправильный вариант продукта"
 
-#: includes/api/class-wc-api-orders.php:890
+#: includes/api/class-wc-api-orders.php:898
 msgid "Cannot create line item, try again"
 msgstr "Невозможно создать позицию, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:898
+#: includes/api/class-wc-api-orders.php:906
 msgid "Cannot update line item, try again"
 msgstr "Невозможно обновить позицию, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:916
+#: includes/api/class-wc-api-orders.php:924
 msgid "Shipping total must be a positive amount"
 msgstr "Общая сумма расходов на доставку должна быть положительной"
 
-#: includes/api/class-wc-api-orders.php:923
+#: includes/api/class-wc-api-orders.php:931
 msgid "Shipping method ID is required"
 msgstr "Требуется ввод ID метода доставки"
 
-#: includes/api/class-wc-api-orders.php:931
+#: includes/api/class-wc-api-orders.php:939
 msgid "Cannot create shipping method, try again"
 msgstr "Невозможно создать метод доставки, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:953
+#: includes/api/class-wc-api-orders.php:961
 msgid "Cannot update shipping method, try again"
 msgstr "Невозможно обновить метода доставки, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:973
+#: includes/api/class-wc-api-orders.php:981
 msgid "Fee title is required"
 msgstr "Требуется ввод заголовка сбора"
 
-#: includes/api/class-wc-api-orders.php:985
+#: includes/api/class-wc-api-orders.php:993
 msgid "Fee tax class is required when fee is taxable"
 msgstr "Требуется ввод класса налога для сбора, если сбор налогооблагаем"
 
-#: includes/api/class-wc-api-orders.php:996
+#: includes/api/class-wc-api-orders.php:1014
 msgid "Cannot create fee, try again"
 msgstr "Невозможно создать сбор, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1022
+#: includes/api/class-wc-api-orders.php:1040
 msgid "Cannot update fee, try again"
 msgstr "Невозможно обновить сбор, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1040
+#: includes/api/class-wc-api-orders.php:1058
 msgid "Coupon discount total must be a positive amount"
 msgstr "Сумма скидки по купону должна быть положительной"
 
-#: includes/api/class-wc-api-orders.php:1047
+#: includes/api/class-wc-api-orders.php:1065
 msgid "Coupon code is required"
 msgstr "Требуется ввод кода купона"
 
-#: includes/api/class-wc-api-orders.php:1053
+#: includes/api/class-wc-api-orders.php:1071
 msgid "Cannot create coupon, try again"
 msgstr "Невозможно создать купон, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1071
+#: includes/api/class-wc-api-orders.php:1089
 msgid "Cannot update coupon, try again"
 msgstr "Невозможно обновить купон, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1136
-#: includes/api/class-wc-api-orders.php:1230
-#: includes/api/class-wc-api-orders.php:1289
+#: includes/api/class-wc-api-orders.php:1154
+#: includes/api/class-wc-api-orders.php:1248
+#: includes/api/class-wc-api-orders.php:1307
 msgid "Invalid order note ID"
 msgstr "Неправильный ID заметки к заказу"
 
-#: includes/api/class-wc-api-orders.php:1142
-#: includes/api/class-wc-api-orders.php:1237
-#: includes/api/class-wc-api-orders.php:1296
+#: includes/api/class-wc-api-orders.php:1160
+#: includes/api/class-wc-api-orders.php:1255
+#: includes/api/class-wc-api-orders.php:1314
 msgid "An order note with the provided ID could not be found"
 msgstr "Заметка к заказу с указанным ID не найдена"
 
-#: includes/api/class-wc-api-orders.php:1169
+#: includes/api/class-wc-api-orders.php:1187
 msgid "You do not have permission to create order notes"
 msgstr "У вас нет прав для создания заметок к заказу"
 
-#: includes/api/class-wc-api-orders.php:1175
-#: includes/api/class-wc-api-orders.php:1449
+#: includes/api/class-wc-api-orders.php:1193
+#: includes/api/class-wc-api-orders.php:1467
 msgid "Order ID is invalid"
 msgstr "Неправильный ID заказа"
 
-#: includes/api/class-wc-api-orders.php:1184
+#: includes/api/class-wc-api-orders.php:1202
 msgid "Order note is required"
 msgstr "Требуется заметка к заказу"
 
-#: includes/api/class-wc-api-orders.php:1193
+#: includes/api/class-wc-api-orders.php:1211
 msgid "Cannot create order note, please try again"
 msgstr "Невозможно создать заметку к заказу, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1242
-#: includes/api/class-wc-api-orders.php:1301
+#: includes/api/class-wc-api-orders.php:1260
+#: includes/api/class-wc-api-orders.php:1319
 msgid "The order note ID provided is not associated with the order"
 msgstr "Указанный ID заметки к заказу не ассоциирован с заказом"
 
-#: includes/api/class-wc-api-orders.php:1311
+#: includes/api/class-wc-api-orders.php:1329
 msgid "Permanently deleted order note"
 msgstr "Заметка к навсегда удаленному заказу"
 
-#: includes/api/class-wc-api-orders.php:1315
+#: includes/api/class-wc-api-orders.php:1333
 msgid "This order note cannot be deleted"
 msgstr "Заметка к заказу не может быть удалена"
 
-#: includes/api/class-wc-api-orders.php:1374
-#: includes/api/class-wc-api-orders.php:1522
-#: includes/api/class-wc-api-orders.php:1578
+#: includes/api/class-wc-api-orders.php:1392
+#: includes/api/class-wc-api-orders.php:1540
+#: includes/api/class-wc-api-orders.php:1596
 msgid "Invalid order refund ID"
 msgstr "Неправильный ID возврата по заказу"
 
-#: includes/api/class-wc-api-orders.php:1381
-#: includes/api/class-wc-api-orders.php:1529
-#: includes/api/class-wc-api-orders.php:1585
+#: includes/api/class-wc-api-orders.php:1399
+#: includes/api/class-wc-api-orders.php:1547
+#: includes/api/class-wc-api-orders.php:1603
 msgid "An order refund with the provided ID could not be found"
 msgstr "Возврат по заказу с указанным ID не найден"
 
-#: includes/api/class-wc-api-orders.php:1443
+#: includes/api/class-wc-api-orders.php:1461
 msgid "You do not have permission to create order refunds"
 msgstr "У вас нет прав для создания возвратов по заказам"
 
-#: includes/api/class-wc-api-orders.php:1456
+#: includes/api/class-wc-api-orders.php:1474
 msgid "Refund amount is required"
 msgstr "Требуется ввод суммы возврата"
 
-#: includes/api/class-wc-api-orders.php:1458
+#: includes/api/class-wc-api-orders.php:1476
 msgid "Refund amount must be positive"
 msgstr "Сумма возврата должна быть положительной"
 
-#: includes/api/class-wc-api-orders.php:1468
+#: includes/api/class-wc-api-orders.php:1486
 msgid "Cannot create order refund, please try again"
 msgstr "Невозможно создать возврат к заказу, попробуйте снова"
 
-#: includes/api/class-wc-api-orders.php:1485
+#: includes/api/class-wc-api-orders.php:1503
 msgid ""
 "An error occurred while attempting to create the refund using the payment "
 "gateway API"
 msgstr "Произошла ошибка при попытке создания возврата с использованием API платежного шлюза"
 
-#: includes/api/class-wc-api-orders.php:1534
-#: includes/api/class-wc-api-orders.php:1590
+#: includes/api/class-wc-api-orders.php:1552
+#: includes/api/class-wc-api-orders.php:1608
 msgid "The order refund ID provided is not associated with the order"
 msgstr "Указанный ID возврата не ассоциирован с заказом"
 
@@ -5275,36 +5275,36 @@ msgid "You do not have permission to create products"
 msgstr "У вас нет прав на создание продуктов"
 
 #: includes/api/class-wc-api-products.php:197
-#: includes/api/class-wc-api-products.php:298
+#: includes/api/class-wc-api-products.php:303
 msgid "Invalid product type - the product type must be any of these: %s"
 msgstr "Неправильный тип продукта - тип продукта должен быть любым из этих: %s"
 
-#: includes/api/class-wc-api-products.php:406
-#: includes/api/class-wc-api-products.php:440
+#: includes/api/class-wc-api-products.php:411
+#: includes/api/class-wc-api-products.php:445
 msgid "You do not have permission to read product categories"
 msgstr "У вас нет прав на чтение категорий продукта"
 
-#: includes/api/class-wc-api-products.php:435
+#: includes/api/class-wc-api-products.php:440
 msgid "Invalid product category ID"
 msgstr "Неправильный ID категории продукта"
 
-#: includes/api/class-wc-api-products.php:446
+#: includes/api/class-wc-api-products.php:451
 msgid "A product category with the provided ID could not be found"
 msgstr "Категория продукта с указанным ID не найдена"
 
-#: includes/api/class-wc-api-products.php:696
-#: includes/api/class-wc-api-products.php:1137
+#: includes/api/class-wc-api-products.php:703
+#: includes/api/class-wc-api-products.php:1149
 msgid "The SKU already exists on another product"
 msgstr "Артикул уже назначен другому продукту"
 
-#: includes/api/class-wc-api-products.php:1090
+#: includes/api/class-wc-api-products.php:1102
 #: includes/class-wc-emails.php:334 includes/class-wc-emails.php:366
 #: includes/class-wc-emails.php:410
 msgid "Variation #%s of %s"
 msgstr "Вариант #%s из %s"
 
-#: includes/api/class-wc-api-products.php:1534
-#: includes/api/class-wc-api-products.php:1535
+#: includes/api/class-wc-api-products.php:1564
+#: includes/api/class-wc-api-products.php:1565
 #: includes/api/v1/class-wc-api-products.php:461
 #: includes/api/v1/class-wc-api-products.php:462
 #: includes/wc-product-functions.php:267
@@ -5312,15 +5312,15 @@ msgstr "Вариант #%s из %s"
 msgid "Placeholder"
 msgstr "Заполнитель"
 
-#: includes/api/class-wc-api-products.php:1608
+#: includes/api/class-wc-api-products.php:1640
 msgid "Invalid URL %s"
 msgstr "Неправильная ссылка %s"
 
-#: includes/api/class-wc-api-products.php:1620
+#: includes/api/class-wc-api-products.php:1652
 msgid "Error getting remote image %s"
 msgstr "Ошибка получения изображения %s"
 
-#: includes/api/class-wc-api-products.php:1649
+#: includes/api/class-wc-api-products.php:1681
 msgid "Zero size file downloaded"
 msgstr "Загружен файл нулевого размера"
 
@@ -5437,88 +5437,88 @@ msgstr "Неправильный ID доставки вебзацепа"
 msgid "Invalid webhook delivery"
 msgstr "Неправильная доставка вебзацепа"
 
-#: includes/class-wc-ajax.php:164
+#: includes/class-wc-ajax.php:168 includes/class-wc-frontend-scripts.php:162
 msgid "Sorry, your session has expired."
 msgstr "К сожалению, время вашей сессии истекло."
 
-#: includes/class-wc-ajax.php:164
+#: includes/class-wc-ajax.php:168 includes/class-wc-frontend-scripts.php:162
 msgid "Return to homepage"
 msgstr "Вернуться на главную"
 
-#: includes/class-wc-ajax.php:318 includes/class-wc-ajax.php:351
-#: includes/class-wc-ajax.php:376
+#: includes/class-wc-ajax.php:350 includes/class-wc-ajax.php:383
+#: includes/class-wc-ajax.php:408
 msgid "You do not have sufficient permissions to access this page."
 msgstr "У вас нет прав для доступа к этой странице."
 
-#: includes/class-wc-ajax.php:322 includes/class-wc-ajax.php:355
-#: includes/class-wc-ajax.php:380
+#: includes/class-wc-ajax.php:354 includes/class-wc-ajax.php:387
+#: includes/class-wc-ajax.php:412
 msgid "You have taken too long. Please go back and retry."
 msgstr "Прошло слишком много времени. Пожалуйста, вернитесь и попытайтесь снова."
 
-#: includes/class-wc-ajax.php:611
+#: includes/class-wc-ajax.php:643
 msgid "Same as parent"
 msgstr "Как у родителя"
 
-#: includes/class-wc-ajax.php:612
+#: includes/class-wc-ajax.php:644
 msgid "Standard"
 msgstr "Стандартный"
 
-#: includes/class-wc-ajax.php:621
+#: includes/class-wc-ajax.php:653
 msgid "Do not allow"
 msgstr "Не разрешать"
 
-#: includes/class-wc-ajax.php:622
+#: includes/class-wc-ajax.php:654
 msgid "Allow, but notify customer"
 msgstr "Разрешить, но уведомить клиента"
 
-#: includes/class-wc-ajax.php:623
+#: includes/class-wc-ajax.php:655
 msgid "Allow"
 msgstr "Разрешить"
 
-#: includes/class-wc-ajax.php:902
+#: includes/class-wc-ajax.php:934
 msgid "File %d"
 msgstr "Файл %d"
 
-#: includes/class-wc-ajax.php:1176
+#: includes/class-wc-ajax.php:1208
 msgid ""
 "No products had their stock reduced - they may not have stock management "
 "enabled."
 msgstr "Свободные остатки продуктов не были уменьшены - возможно не было включено управление запасами."
 
-#: includes/class-wc-ajax.php:1215 includes/class-wc-ajax.php:1216
-#: includes/class-wc-ajax.php:1863
+#: includes/class-wc-ajax.php:1247 includes/class-wc-ajax.php:1248
+#: includes/class-wc-ajax.php:1898
 msgid "Item #%s stock increased from %s to %s."
 msgstr "Для позиции #%s наличие увеличено с %s до %s"
 
-#: includes/class-wc-ajax.php:1223
+#: includes/class-wc-ajax.php:1255
 msgid ""
 "No products had their stock increased - they may not have stock management "
 "enabled."
 msgstr "Свободные остатки продуктов не были увеличены - возможно не было включено управление запасами"
 
-#: includes/class-wc-ajax.php:1238
+#: includes/class-wc-ajax.php:1270
 #: includes/widgets/class-wc-widget-product-categories.php:41
 #: templates/single-product-reviews.php:62
 msgid "Name"
 msgstr "Имя"
 
-#: includes/class-wc-ajax.php:1238
+#: includes/class-wc-ajax.php:1270
 msgid "Value"
 msgstr "Значение"
 
-#: includes/class-wc-ajax.php:1472
+#: includes/class-wc-ajax.php:1507
 msgid "Delete note"
 msgstr "Удалить заметку"
 
-#: includes/class-wc-ajax.php:1617
+#: includes/class-wc-ajax.php:1652
 msgid "Guest"
 msgstr "Гость"
 
-#: includes/class-wc-ajax.php:1842
+#: includes/class-wc-ajax.php:1877
 msgid "Invalid refund amount"
 msgstr "Неправильная сумма возврата"
 
-#: includes/class-wc-ajax.php:1897
+#: includes/class-wc-ajax.php:1932
 msgid "Refund failed"
 msgstr "Возврат не удался"
 
@@ -5559,33 +5559,33 @@ msgid ""
 "apologise for any inconvenience caused."
 msgstr "Извините, у нас не хватает \"%s\" в запасе, чтобы выполнить ваш заказ прямо сейчас. Пожалуйста, попробуйте снова через %d минут или изменить вашу корзину и попробуйте снова. Приносим извинения за доставленные неудобства."
 
-#: includes/class-wc-cart.php:825
+#: includes/class-wc-cart.php:855
 msgid "Sorry, this product cannot be purchased."
 msgstr "Этот продукт не может быть куплен."
 
-#: includes/class-wc-cart.php:832
+#: includes/class-wc-cart.php:862
 msgid ""
 "You cannot add &quot;%s&quot; to the cart because the product is out of "
 "stock."
 msgstr "Нельзя добавить &quot;%s&quot; в корзину, так как товара нет на складе."
 
-#: includes/class-wc-cart.php:837
+#: includes/class-wc-cart.php:867
 msgid ""
 "You cannot add that amount of &quot;%s&quot; to the cart because there is "
 "not enough stock (%s remaining)."
 msgstr "Нельзя добавить такое количество &quot;%s&quot; в корзину, так как товара недостаточно на складе (осталось %s)."
 
-#: includes/class-wc-cart.php:851 includes/class-wc-cart.php:875
-#: includes/class-wc-frontend-scripts.php:188
+#: includes/class-wc-cart.php:881 includes/class-wc-cart.php:905
+#: includes/class-wc-frontend-scripts.php:189
 #: includes/wc-cart-functions.php:98 templates/cart/mini-cart.php:65
 msgid "View Cart"
 msgstr "Перейти в корзину"
 
-#: includes/class-wc-cart.php:852
+#: includes/class-wc-cart.php:882
 msgid "You cannot add another &quot;%s&quot; to your cart."
 msgstr "Вы не можете добавить ещё &quot;%s&quot; в корзину."
 
-#: includes/class-wc-cart.php:876
+#: includes/class-wc-cart.php:906
 msgid ""
 "You cannot add that amount to the cart &mdash; we have %s in stock and you "
 "already have %s in your cart."
@@ -6085,23 +6085,23 @@ msgstr "Анти-спам поле было заполнено."
 msgid "Please select a rating"
 msgstr "Пожалуйста, поставьте оценку"
 
-#: includes/class-wc-frontend-scripts.php:168
+#: includes/class-wc-frontend-scripts.php:169
 #: includes/wc-template-functions.php:1626
 msgid "required"
 msgstr "обязательно"
 
-#: includes/class-wc-frontend-scripts.php:196
+#: includes/class-wc-frontend-scripts.php:197
 msgid ""
 "Sorry, no products matched your selection. Please choose a different "
 "combination."
 msgstr "Извините, нет товаров, соответствующих вашему выбору. Пожалуйста, выберите другую комбинацию."
 
-#: includes/class-wc-frontend-scripts.php:197
+#: includes/class-wc-frontend-scripts.php:198
 msgid ""
 "Sorry, this product is unavailable. Please choose a different combination."
 msgstr "Извините, такой товар недоступен. Пожалуйста, выберите другую комбинацию."
 
-#: includes/class-wc-frontend-scripts.php:204
+#: includes/class-wc-frontend-scripts.php:205
 msgid "Select an option&hellip;"
 msgstr "Выберите параметр&hellip;"
 
@@ -6951,17 +6951,17 @@ msgstr "Инструкции, которые будут добавлены на 
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:89
 msgid "Enable for shipping methods"
-msgstr "Включить способы доставки"
+msgstr "Включено для способов доставки"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:94
 msgid ""
 "If COD is only available for certain methods, set it up here. Leave blank to"
 " enable for all methods."
-msgstr "Если оплата наложенным платежом доступна только для определенных способов доставки, задайте её здесь. Оставьте поле пустым, чтобы включить для всех методов."
+msgstr "Если оплата наложенным платежом доступна только для определенных способов доставки, задайте их здесь. Оставьте поле пустым, чтобы включить для всех методов."
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:98
 msgid "Select shipping methods"
-msgstr "Выберите способ доставки"
+msgstr "Выберите способы доставки"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:102
 msgid "Enable for virtual orders"
@@ -7985,203 +7985,199 @@ msgstr "Неправильный статус заказа"
 msgid "Invalid order ID"
 msgstr "Неправильный ID заказа"
 
-#: includes/wc-core-functions.php:251 tests/unit-tests/core-functions.php:28
+#: includes/wc-core-functions.php:251
 msgid "United Arab Emirates Dirham"
 msgstr "Дирхам ОАЭ"
 
-#: includes/wc-core-functions.php:252 tests/unit-tests/core-functions.php:29
+#: includes/wc-core-functions.php:252
 msgid "Australian Dollars"
 msgstr "Австралийский доллар"
 
-#: includes/wc-core-functions.php:253 tests/unit-tests/core-functions.php:30
+#: includes/wc-core-functions.php:253
 msgid "Bangladeshi Taka"
 msgstr "Бангладешская така"
 
-#: includes/wc-core-functions.php:254 tests/unit-tests/core-functions.php:31
+#: includes/wc-core-functions.php:254
 msgid "Brazilian Real"
 msgstr "Бразильский реал"
 
-#: includes/wc-core-functions.php:255 tests/unit-tests/core-functions.php:32
+#: includes/wc-core-functions.php:255
 msgid "Bulgarian Lev"
 msgstr "Болгарский лев"
 
-#: includes/wc-core-functions.php:256 tests/unit-tests/core-functions.php:33
+#: includes/wc-core-functions.php:256
 msgid "Canadian Dollars"
 msgstr "Канадский доллар"
 
-#: includes/wc-core-functions.php:257 tests/unit-tests/core-functions.php:34
+#: includes/wc-core-functions.php:257
 msgid "Chilean Peso"
 msgstr "Чилийский песо"
 
-#: includes/wc-core-functions.php:258 tests/unit-tests/core-functions.php:35
+#: includes/wc-core-functions.php:258
 msgid "Chinese Yuan"
 msgstr "Китайский юань"
 
-#: includes/wc-core-functions.php:259 tests/unit-tests/core-functions.php:36
+#: includes/wc-core-functions.php:259
 msgid "Colombian Peso"
 msgstr "Колумбийский песо"
 
-#: includes/wc-core-functions.php:260 tests/unit-tests/core-functions.php:37
+#: includes/wc-core-functions.php:260
 msgid "Czech Koruna"
 msgstr "Чешская крона"
 
-#: includes/wc-core-functions.php:261 tests/unit-tests/core-functions.php:38
+#: includes/wc-core-functions.php:261
 msgid "Danish Krone"
 msgstr "Датская крона"
 
-#: includes/wc-core-functions.php:262 tests/unit-tests/core-functions.php:39
+#: includes/wc-core-functions.php:262
 msgid "Dominican Peso"
 msgstr "Доминиканский песо"
 
-#: includes/wc-core-functions.php:263 tests/unit-tests/core-functions.php:40
+#: includes/wc-core-functions.php:263
 msgid "Euros"
 msgstr "Евро"
 
-#: includes/wc-core-functions.php:264 tests/unit-tests/core-functions.php:41
+#: includes/wc-core-functions.php:264
 msgid "Hong Kong Dollar"
 msgstr "Гонконгский доллар "
 
-#: includes/wc-core-functions.php:265 tests/unit-tests/core-functions.php:42
+#: includes/wc-core-functions.php:265
 msgid "Croatia kuna"
 msgstr "Хорватская куна"
 
-#: includes/wc-core-functions.php:266 tests/unit-tests/core-functions.php:43
+#: includes/wc-core-functions.php:266
 msgid "Hungarian Forint"
 msgstr "Венгерский форинт"
 
-#: includes/wc-core-functions.php:267 tests/unit-tests/core-functions.php:44
+#: includes/wc-core-functions.php:267
 msgid "Icelandic krona"
 msgstr "Исландская крона "
 
-#: includes/wc-core-functions.php:268 tests/unit-tests/core-functions.php:45
+#: includes/wc-core-functions.php:268
 msgid "Indonesia Rupiah"
 msgstr "Индонезийская рупия"
 
-#: includes/wc-core-functions.php:269 tests/unit-tests/core-functions.php:46
+#: includes/wc-core-functions.php:269
 msgid "Indian Rupee"
 msgstr "Индийская рупия"
 
-#: includes/wc-core-functions.php:270 tests/unit-tests/core-functions.php:47
+#: includes/wc-core-functions.php:270
 msgid "Nepali Rupee"
 msgstr "Непальская рупия "
 
-#: includes/wc-core-functions.php:271 tests/unit-tests/core-functions.php:48
+#: includes/wc-core-functions.php:271
 msgid "Israeli Shekel"
 msgstr "Израильский шекель"
 
-#: includes/wc-core-functions.php:272 tests/unit-tests/core-functions.php:49
+#: includes/wc-core-functions.php:272
 msgid "Japanese Yen"
 msgstr "Японская йена"
 
-#: includes/wc-core-functions.php:273 tests/unit-tests/core-functions.php:50
+#: includes/wc-core-functions.php:273
 msgid "Lao Kip"
 msgstr "Лаосский кип"
 
-#: includes/wc-core-functions.php:274 tests/unit-tests/core-functions.php:51
+#: includes/wc-core-functions.php:274
 msgid "South Korean Won"
 msgstr "Южнокорейская вона"
 
-#: includes/wc-core-functions.php:275 tests/unit-tests/core-functions.php:52
+#: includes/wc-core-functions.php:275
 msgid "Malaysian Ringgits"
 msgstr "Малайзийский ринггит"
 
-#: includes/wc-core-functions.php:276 tests/unit-tests/core-functions.php:53
+#: includes/wc-core-functions.php:276
 msgid "Mexican Peso"
 msgstr "Мексиканский песо"
 
-#: includes/wc-core-functions.php:277 tests/unit-tests/core-functions.php:54
+#: includes/wc-core-functions.php:277
 msgid "Nigerian Naira"
 msgstr "Нигерийская найра"
 
-#: includes/wc-core-functions.php:278 tests/unit-tests/core-functions.php:55
+#: includes/wc-core-functions.php:278
 msgid "Norwegian Krone"
 msgstr "Норвежская крона"
 
-#: includes/wc-core-functions.php:279 tests/unit-tests/core-functions.php:56
+#: includes/wc-core-functions.php:279
 msgid "New Zealand Dollar"
 msgstr "Новозеландский доллар"
 
-#: includes/wc-core-functions.php:280 tests/unit-tests/core-functions.php:57
+#: includes/wc-core-functions.php:280
 msgid "Paraguayan Guaraní"
 msgstr "Парагвайский гуарани"
 
-#: includes/wc-core-functions.php:281 tests/unit-tests/core-functions.php:58
+#: includes/wc-core-functions.php:281
 msgid "Philippine Pesos"
 msgstr "Филиппинское песо"
 
-#: includes/wc-core-functions.php:282 tests/unit-tests/core-functions.php:59
+#: includes/wc-core-functions.php:282
 msgid "Polish Zloty"
 msgstr "Польский злотый"
 
-#: includes/wc-core-functions.php:283 tests/unit-tests/core-functions.php:60
+#: includes/wc-core-functions.php:283
 msgid "Pounds Sterling"
 msgstr " Фунты стерлингов "
 
-#: includes/wc-core-functions.php:284 tests/unit-tests/core-functions.php:61
+#: includes/wc-core-functions.php:284
 msgid "Romanian Leu"
 msgstr "Румынский лей"
 
-#: includes/wc-core-functions.php:285 tests/unit-tests/core-functions.php:62
+#: includes/wc-core-functions.php:285
 msgid "Russian Ruble"
 msgstr "Российский рубль"
 
-#: includes/wc-core-functions.php:286 tests/unit-tests/core-functions.php:63
+#: includes/wc-core-functions.php:286
 msgid "Singapore Dollar"
 msgstr "Сингапурский доллар"
 
-#: includes/wc-core-functions.php:287 tests/unit-tests/core-functions.php:64
+#: includes/wc-core-functions.php:287
 msgid "South African rand"
 msgstr "Южноафриканский рэнд"
 
-#: includes/wc-core-functions.php:288 tests/unit-tests/core-functions.php:65
+#: includes/wc-core-functions.php:288
 msgid "Swedish Krona"
 msgstr "Шведская крона"
 
-#: includes/wc-core-functions.php:289 tests/unit-tests/core-functions.php:66
+#: includes/wc-core-functions.php:289
 msgid "Swiss Franc"
 msgstr " Швейцарский франк "
 
-#: includes/wc-core-functions.php:290 tests/unit-tests/core-functions.php:67
+#: includes/wc-core-functions.php:290
 msgid "Taiwan New Dollars"
 msgstr "Новый тайваньский доллар"
 
-#: includes/wc-core-functions.php:291 tests/unit-tests/core-functions.php:68
+#: includes/wc-core-functions.php:291
 msgid "Thai Baht"
 msgstr "Таиландский бат"
 
-#: includes/wc-core-functions.php:292 tests/unit-tests/core-functions.php:69
+#: includes/wc-core-functions.php:292
 msgid "Turkish Lira"
 msgstr "Турецкая лира"
 
-#: includes/wc-core-functions.php:293 tests/unit-tests/core-functions.php:70
+#: includes/wc-core-functions.php:293
 msgid "US Dollars"
 msgstr "Американский доллар"
 
-#: includes/wc-core-functions.php:294 tests/unit-tests/core-functions.php:71
+#: includes/wc-core-functions.php:294
 msgid "Vietnamese Dong"
 msgstr "Вьетнамский донг"
 
-#: includes/wc-core-functions.php:295 tests/unit-tests/core-functions.php:72
+#: includes/wc-core-functions.php:295
 msgid "Egyptian Pound"
 msgstr "Египетский фунт"
 
 #: includes/wc-coupon-functions.php:24
-#: tests/unit-tests/coupon-functions.php:17
 msgid "Cart Discount"
 msgstr "Скидка в корзине"
 
 #: includes/wc-coupon-functions.php:25
-#: tests/unit-tests/coupon-functions.php:18
 msgid "Cart % Discount"
 msgstr "Скидка в корзине %"
 
 #: includes/wc-coupon-functions.php:26
-#: tests/unit-tests/coupon-functions.php:19
 msgid "Product Discount"
 msgstr "Скидка на товар"
 
 #: includes/wc-coupon-functions.php:27
-#: tests/unit-tests/coupon-functions.php:20
 msgid "Product % Discount"
 msgstr "Скидка на товар %"
 
@@ -8875,7 +8871,7 @@ msgstr "Разместить заказ"
 msgid ""
 "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
 "conditions</a>"
-msgstr "Я прочитал и принимаю <a href=\"%s\" target=\"_blank\">правила и соглашения</a>"
+msgstr "Я прочитал и принимаю <a href=\"%s\" target=\"_blank\">условия и соглашения</a>"
 
 #: templates/checkout/thankyou.php:16
 msgid ""
@@ -9536,7 +9532,7 @@ msgctxt "US state of Georgia"
 msgid "Georgia"
 msgstr "Грузия"
 
-#: includes/abstracts/abstract-wc-order.php:871
+#: includes/abstracts/abstract-wc-order.php:869
 msgctxt "hash before order number"
 msgid "#"
 msgstr "№"
